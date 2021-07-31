@@ -1,0 +1,103 @@
+
+		
+			body{
+			font-family:Tahoma;
+		}
+			
+		
+		.banner {
+	  background-image: url('background2.jpg');
+	  background-size:1887px 500px;
+	  background-repeat:no-repeat;
+	  padding: 100px;
+	  text-align: center;
+	  width:100%;
+	  font-size: 35px;
+	  position: relative;
+}
+
+	.button {background-color: #f44336;}
+
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+		#main { 
+            width:75%;
+            margin: auto;
+            border: 1px aquamarine;
+            padding: 0.5em;
+            background-color: teal;
+         }
+
+         .question {
+            margin: 5px;
+            padding: 20px;
+            border: 1px skyblue solid;
+            background-color: #def;
+         }
+		
+         .prompt {
+            margin: 5px;
+         }
+
+         .conclusion {
+            margin: 5px;
+            border: 1px orange solid;
+            background-color: #FED;
+         }
+
+         .explanation {
+            width: 100%;
+            margin: 0;
+            padding: 20px;
+            font-style: italic;
+            color: black;
+         }
+
+         .controls {
+            border: 1px orange solid;
+            background-color: white;
+            padding: 5px;
+            margin: 5px;
+         }
+
+         .flash {
+            margin: 5px;
+            padding: 5px;
+            border: 1px silver solid;
+            background-color: white;
+          }
+         .nextButton {
+			font-family: Tahoma;
+            margin: 5px;
+            background-color: orange;
+            border: none;
+         }
+         .multiple {
+            width: 100%;
+         }
+         .field {
+            width: 100%;
+         }
+         .checkbox {
+            display: block;
+            width: 100%;
+            position: relative;
+         }
+		 
+		 
+		 footer {
+		background-color: teal;
+		padding: 10px;
+		text-align: center;
+		color: white;
+		}
+		 header {
+		background-color: teal;
+		padding: 20px;
+		text-align: left;
+		color: white;
+		}
