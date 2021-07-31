@@ -1,0 +1,1654 @@
+
+(property scale 50)
+
+(vrl_instance psdnxtvr question [(= question_type single_choice) (= size {108 60}) (= selected 3)] 102 66 [(text 1 `question1` [(= visible 2)]) (text 2 `Are you new HR manager and never handling employee misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know whether the user eligible to use the system or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance yvyuifwc start [(= size {72 24}) (= selected 1)] 120 12 [(text 1 `Start` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lprggqfv code [(= size {72 24}) (= selected 1)] 372 144 [(text 1 `flash( ' ok bye ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kzfebcji code [(= size {72 24}) (= selected 1)] 96 192 [(text 1 `flash( ' Can undergo training for handling employee misconduct ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance odmhvjbv elbow [(= size {12 12})] 402 330 [])
+
+(vrl_instance utvchyqt elbow [(= size {12 12})] 186 522 [])
+
+(vrl_instance ezrukquv elbow [(= size {12 12})] 42 522 [])
+
+(vrl_instance cjmeohva elbow [(= size {12 12})] 390 522 [])
+
+(vrl_instance smxcalax expression [(= size {72 24}) (= selected 1)] 84 804 [(text 1 `'Doctor letter'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bxlvxzko expression [(= size {72 24}) (= selected 1)] 168 804 [(text 1 `'Family emergency'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rarhdpek expression [(= size {72 25}) (= selected 1)] 252 804 [(text 1 ` 'Vehicle problem'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wllbpork expression [(= size {72 24}) (= selected 1)] 432 804 [(text 1 ` None` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qjhbqyrh code [(= size {96 24}) (= selected 1)] 156 864 [(text 1 `flash( 'Employee has solid reasoning.')` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jhgxhwxh continue [(= size {72 24}) (= selected 1)] 432 924 [(text 1 `Minor misconduct` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bmzrcuyh code [(= size {72 24}) (= selected 1)] 156 600 [(text 1 `flash( 'Employee has committed minor misconduct.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ucpxzzrl continue [(= size {72 24}) (= selected 1)] 156 648 [(text 1 `Minor misconduct` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qhydfvzf question [(= question_type single_choice) (= size {132 60}) (= selected 3)] 66 234 [(text 1 `question2` [(= visible 2)]) (text 2 `Is there any report of misconduct being submitted?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A disciplinary action for an employee that has committed a misconduct must go through the proper procedure of submitting a report of misconduct to the HR department before punishment is ensued.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance yahngrrj question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 12 618 [(text 1 `question4` [(= visible 2)]) (text 2 `How many times employee late to work?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know the number of employee come late to work.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance uiakcvqo question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 360 630 [(text 1 `question5` [(= visible 2)]) (text 2 `How many times employee absent to work?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the employee has committed a major or minor misconduct according to the Employment Act 1955  section 15(2).` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vqubiott question [(= question_type single_choice) (= size {96 60}) (= selected 3)] 192 726 [(text 1 `question6` [(= visible 2)]) (text 2 `Does the employee have reasoning?` [(= visible 2) (= edited 1)]) (text 3 `To find out if the employee has a reasonable excuse for the named employee absence.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mczopygq end [(= size {96 24}) (= selected 1)] 360 24 [(text 1 `End the program.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ybdqfyli end [(= size {72 24}) (= selected 1)] 456 756 [(text 1 `The employee will be given reminder from their supervisor as the misconduct is not enough to be considered as a minor misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance msxpvchd end [(= size {72 24}) (= selected 1)] 168 912 [(text 1 `No further action will be taken to the employee as the employee managed to present the reasoning that are considered solid.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xmtrusoa end [(= size {72 24}) (= selected 1)] 0 780 [(text 1 `The employee will be given reminder from their supervisor as the misconduct is not enough to be considered as a minor misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cxvviqzs code [(= size {96 24}) (= selected 1)] 144 372 [(text 1 `flash( 'The report will be reviewed. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jhmxjnyq question [(= question_type single_choice) (= size {347 72}) (= selected 2)] 19 420 [(text 1 `question3` [(= visible 2)]) (text 2 `What is the employee misconduct in the report?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of the misconduct that the employee does.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance flbkqplk expression [(= size {72 24}) (= selected 1)] 0 708 [(text 1 ` 'Less than two days'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mxisoltp expression [(= size {72 24}) (= selected 1)] 84 708 [(text 1 ` 'More than two days'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kmluwvex expression [(= size {72 24}) (= selected 1)] 360 708 [(text 1 ` 'More than two days'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zsduppvc expression [(= size {72 24}) (= selected 1)] 456 708 [(text 1 ` 'Less than two days'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gtsfekcm code [(= size {72 24}) (= selected 1)] 432 864 [(text 1 `flash( 'Employee has committed minor misconduct.')` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance idjelqeg expression [(= size {72 24}) (= selected 1)] 540 552 [(text 1 ` Vandalism` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vqstrlvy expression [(= size {72 24}) (= selected 1)] 552 504 [(text 1 `'Extreme absenteeism'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mcbcohso expression [(= size {72 24}) (= selected 1)] 552 600 [(text 1 `'Act of violence'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zympddal start [(= size {72 24}) (= selected 1)] 504 24 [(text 1 `Minor misconduct` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance okwlrvbk expression [(= size {72 24}) (= selected 1)] 636 444 [(text 1 ` Theft` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kepvohpd code [(= size {72 24}) (= selected 1)] 708 384 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kumpoqkb expression [(= size {72 24}) (= selected 1)] 1656 528 [(text 1 `Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vmjpqwsz expression [(= size {72 24}) (= selected 1)] 1644 588 [(text 1 ` 'Not guilty'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ywfolioe expression [(= size {72 24}) (= selected 1)] 1380 576 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance snvhblqt expression [(= size {72 24}) (= selected 1)] 1380 636 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fghsbtpp expression [(= size {72 24}) (= selected 1)] 996 420 [(text 1 `  =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mukigqlp expression [(= size {72 24}) (= selected 1)] 996 468 [(text 1 `  = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance epoelrpi expression [(= size {72 24}) (= selected 1)] 1380 396 [(text 1 `'Admitted offence'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance llppbwpd end [(= size {72 25}) (= selected 1)] 996 504 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hdbrezvc code [(= size {72 24}) (= selected 1)] 1080 420 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hdelpsud code [(= size {72 25}) (= selected 1)] 1164 420 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance oubgnclk code [(= size {72 24}) (= selected 1)] 1476 384 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qmqruptt end [(= size {72 24}) (= selected 1)] 1572 384 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of theft.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jontkiyl code [(= size {72 24}) (= selected 1)] 1560 492 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mgmaifuh question [(= question_type single_choice) (= size {84 60}) (= selected 3)] 1554 546 [(text 1 `question26` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance wjjjsdok end [(= size {72 25}) (= selected 1)] 1740 576 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of theft.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kfhbcanv code [(= size {72 24}) (= selected 1)] 1740 528 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance czbsjolr end [(= size {72 24}) (= selected 1)] 1656 636 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rfmxveuw question [(= question_type single_choice) (= size {95 61}) (= selected 3)] 1261 402 [(text 1 `question25` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance umivjpgz expression [(= size {72 24}) (= selected 1)] 12 552 [(text 1 `'Late to work'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wxacecnb expression [(= size {72 24}) (= selected 1)] 156 552 [(text 1 `'Defying superior instructions'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mujidomk expression [(= size {72 24}) (= selected 1)] 360 552 [(text 1 `'Absent to work'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance brairads code [(= size {72 24}) (= selected 1)] 648 504 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uhyigndl code [(= size {72 24}) (= selected 1)] 648 564 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jcnolccr expression [(= size {72 24}) (= selected 1)] 1200 696 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yqsaygco end [(= size {72 24}) (= selected 1)] 1800 1092 [(text 1 `The employee will be fired as consequences of extreme absenteeism.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vqxteswk question [(= question_type multiple_choice) (= size {96 61}) (= selected 3)] 756 510 [(text 1 `question13` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fnynzmxu question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 756 618 [(text 1 `question19` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hubnohjv expression [(= size {72 24}) (= selected 1)] 900 540 [(text 1 `   =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jgkkepxt expression [(= size {72 24}) (= selected 1)] 852 636 [(text 1 `    =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ebrgunsh expression [(= size {72 25}) (= selected 1)] 900 588 [(text 1 `   = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kgdvueau expression [(= size {72 24}) (= selected 1)] 852 684 [(text 1 `    = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance envsnfbm code [(= size {72 24}) (= selected 1)] 1032 552 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tlymcknu code [(= size {72 24}) (= selected 1)] 1032 612 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wpasptno code [(= size {72 24}) (= selected 1)] 948 636 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xctpwukh code [(= size {72 24}) (= selected 1)] 948 684 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hpgkjdyd code [(= size {72 24}) (= selected 1)] 1164 600 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance iczqdnxg code [(= size {72 24}) (= selected 1)] 1032 684 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gyksfrsu question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1272 570 [(text 1 `question14` [(= visible 2)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure that the complainant is truthful about the report.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ljkwvdfp question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1032 726 [(text 1 `question20` [(= visible 2)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure that the complainant is truthful about the report.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nqcmhiwv end [(= size {72 24}) (= selected 1)] 1392 528 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gaxbpxmf end [(= size {72 24}) (= selected 1)] 864 732 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uughbsug expression [(= size {72 24}) (= selected 1)] 1032 804 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mpscnhxd code [(= size {72 24}) (= selected 1)] 1476 648 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ctjymkhc code [(= size {72 24}) (= selected 1)] 948 804 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gictqmcx code [(= size {72 24}) (= selected 1)] 1488 696 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance raegddry code [(= size {72 24}) (= selected 1)] 852 804 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lldjtfyl code [(= size {72 24}) (= selected 1)] 1392 696 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pjlqznxc question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1296 678 [(text 1 `question15` [(= visible 2)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance okykieyr expression [(= size {72 24}) (= selected 1)] 948 732 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qbwfcptt code [(= size {72 24}) (= selected 1)] 852 852 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nzmqupxd expression [(= size {72 24}) (= selected 1)] 1032 852 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mpuaxgre code [(= size {72 24}) (= selected 1)] 1116 696 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jkoivyff code [(= size {72 24}) (= selected 1)] 1116 852 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nqathkko code [(= size {72 24}) (= selected 1)] 1116 744 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tfltgkeq code [(= size {72 24}) (= selected 1)] 1200 852 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sqgfuobc code [(= size {72 24}) (= selected 1)] 1200 744 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rzunrhyn code [(= size {72 24}) (= selected 1)] 1284 852 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dlavjpqh code [(= size {72 24}) (= selected 1)] 1284 744 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kzbvruql code [(= size {72 24}) (= selected 1)] 1368 852 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance agwthauj expression [(= size {72 24}) (= selected 1)] 1464 756 [(text 1 `   =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hbzeajwq expression [(= size {72 24}) (= selected 1)] 1464 792 [(text 1 `   = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pdgvknee expression [(= size {72 24}) (= selected 1)] 1452 900 [(text 1 `    = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fdgqaiae expression [(= size {72 24}) (= selected 1)] 1452 936 [(text 1 `    =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mpqzkfmx end [(= size {72 24}) (= selected 1)] 1464 828 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lbgyxfve end [(= size {72 24}) (= selected 1)] 1536 900 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sjvmajaw code [(= size {72 24}) (= selected 1)] 1548 756 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kkzfbgrk code [(= size {72 24}) (= selected 1)] 1548 948 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fvdvrpbe code [(= size {72 25}) (= selected 1)] 1644 756 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance boneyuhr code [(= size {72 24}) (= selected 1)] 1548 984 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lelynwdx question [(= question_type single_choice) (= size {84 60}) (= selected 3)] 1638 798 [(text 1 `question17` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance bwtgwwgc question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1548 1026 [(text 1 `question29` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zjwwvqka expression [(= size {72 24}) (= selected 1)] 1728 804 [(text 1 ` 'Admitted offence'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zjionsby expression [(= size {72 24}) (= selected 1)] 1728 840 [(text 1 ` 'Does not admit to the offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yltgjhoa expression [(= size {72 24}) (= selected 1)] 1452 1104 [(text 1 ` 'Admitted offense'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mahqjwrv code [(= size {72 24}) (= selected 1)] 1452 1164 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pdqcqymh code [(= size {72 24}) (= selected 1)] 1740 876 [(text 1 `flash(' Will appoint Inquiry Panels that are neutral to the case. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zndjmztm code [(= size {72 24}) (= selected 1)] 1632 1152 [(text 1 `flash(' Will appoint Inquiry Panels that are neutral to the case. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lmlioehp code [(= size {72 24}) (= selected 1)] 1740 912 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance stifocbe code [(= size {72 24}) (= selected 1)] 1644 1200 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cxwjtzph code [(= size {72 24}) (= selected 1)] 1656 1260 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ytaqddjl question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1776 1242 [(text 1 `question32` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance uifrxgxt expression [(= size {72 24}) (= selected 1)] 1764 1320 [(text 1 ` Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kcreugdt expression [(= size {72 24}) (= selected 1)] 1872 1332 [(text 1 ` 'Not guilty'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uocrkrcg end [(= size {72 25}) (= selected 1)] 1872 1380 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance voerfzwx code [(= size {72 24}) (= selected 1)] 1764 1368 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ygakdpgz expression [(= size {72 24}) (= selected 1)] 1536 1296 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kpfaaokt expression [(= size {72 24}) (= selected 1)] 1500 1404 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rmxiappe expression [(= size {72 24}) (= selected 1)] 1596 1416 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zruthiqm expression [(= size {85 24}) (= selected 1)] 690 1116 [(text 1 `yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sxsdfuxt question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 792 1098 [(text 1 `question10` [(= visible 2) (= edited 1)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance weuaboxa code [(= size {72 24}) (= selected 1)] 900 1116 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance njevqcto code [(= size {72 24}) (= selected 1)] 996 1116 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uxbkswnh code [(= size {72 24}) (= selected 1)] 1092 1116 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jijmlgwh end [(= size {72 24}) (= selected 1)] 1092 984 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance owxkyzts code [(= size {72 24}) (= selected 1)] 876 1020 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ivvofief code [(= size {72 25}) (= selected 1)] 780 1044 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zzzzpmjo code [(= size {72 24}) (= selected 1)] 780 984 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ackmfqlw code [(= size {72 24}) (= selected 1)] 600 1116 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ryltelfi code [(= size {72 24}) (= selected 1)] 504 1128 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kdrgpxid code [(= size {72 24}) (= selected 1)] 528 1188 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rakpmtpf code [(= size {72 24}) (= selected 1)] 528 1236 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cttkuvzo question [(= question_type multiple_choice) (= size {97 60}) (= selected 3)] 516 1326 [(text 1 `question11` [(= visible 2)]) (text 2 `What is the supporting evidences that has been collected?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of evidence to be brought up to the employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance tgmsetxx expression [(= size {72 24}) (= selected 1)] 648 1248 [(text 1 ` =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dqnscqrp expression [(= size {72 24}) (= selected 1)] 648 1308 [(text 1 ` = [None]` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pbmzjwda end [(= size {72 24}) (= selected 1)] 660 1368 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wcxribqx code [(= size {72 24}) (= selected 1)] 744 1284 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uxkexnsc code [(= size {72 24}) (= selected 1)] 864 1284 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yfdrrhdb code [(= size {72 24}) (= selected 1)] 1164 1248 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vqhpuziz question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 972 1266 [(text 1 `question12` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nkoimewc code [(= size {72 24}) (= selected 1)] 1164 1296 [(text 1 `flash(' Will appoint Inquiry Panels that are neutral to the case. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gwxjgozo question [(= question_type single_choice) (= size {96 60}) (= selected 3)] 972 1002 [(text 1 `question9` [(= visible 2) (= edited 1)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure that the complainant is truthful about the report.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance czuxpftg question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 492 1038 [(text 1 `question8` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mccbkxpn expression [(= size {72 25}) (= selected 1)] 588 1008 [(text 1 ` =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fmdbczgb expression [(= size {72 24}) (= selected 1)] 588 1056 [(text 1 ` = [None]` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ougawrox expression [(= size {72 24}) (= selected 1)] 1092 1020 [(text 1 `No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yvfunhxx expression [(= size {72 24}) (= selected 1)] 1092 1068 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cboneimu expression [(= size {72 24}) (= selected 1)] 1740 1524 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mpxmllvs expression [(= size {72 24}) (= selected 1)] 1872 1524 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jafwbmnu expression [(= size {72 24}) (= selected 1)] 1968 1668 [(text 1 `No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance abegknmk expression [(= size {72 24}) (= selected 1)] 1860 1668 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yqtcdpha expression [(= size {72 24}) (= selected 1)] 1308 1416 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bjitlyoq expression [(= size {72 24}) (= selected 1)] 1416 1416 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ejnasmwd expression [(= size {72 24}) (= selected 1)] 1068 1248 [(text 1 `'Admitted offense'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vcwocjqn expression [(= size {72 24}) (= selected 1)] 1620 1104 [(text 1 `  'Does not admit to the offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lqdplqss expression [(= size {72 24}) (= selected 1)] 1068 1296 [(text 1 `  'Does not admit to the offense'~M~J~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cxwfivlk question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1452 1206 [(text 1 `question30` [(= visible 2)]) (text 2 `Is it the first time employee committed vandalism?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ezslaszl question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1548 1338 [(text 1 `question31` [(= visible 2)]) (text 2 `Is the vandalism severe?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance wrqudaol question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1776 1434 [(text 1 `question33` [(= visible 2)]) (text 2 `Is it the first time employee committed vandalism?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance epfecmgn question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 1416 1338 [(text 1 `question35` [(= visible 2)]) (text 2 `Is the vandalism severe?` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kybarfqk question [(= question_type single_choice) (= size {96 60}) (= selected 3)] 1872 1578 [(text 1 `question34` [(= visible 2)]) (text 2 `Is the vandalism severe?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xbmgbxig question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1740 1578 [(text 1 `question36` [(= visible 2)]) (text 2 `Is the vandalism severe?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the punishment towards the employee can be reduced or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance bzlulclv expression [(= size {72 24}) (= selected 1)] 1680 1668 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance axyxbvew expression [(= size {72 24}) (= selected 1)] 1764 1668 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jkrqzuul end [(= size {72 24}) (= selected 1)] 1416 1464 [(text 1 `Employee need to pay 25% of the vandalism damages as the punishment because the employee is a first time offender and the vandalism is not severe.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance evekiort end [(= size {72 24}) (= selected 1)] 1500 1464 [(text 1 `Employee need to pay 75% of the vandalism damages as the vandalism is severe.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance toezsduv end [(= size {72 24}) (= selected 1)] 1860 1716 [(text 1 `Employee need to pay 75% of the vandalism damages as the vandalism is severe.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zylbhipv end [(= size {72 24}) (= selected 1)] 1596 1464 [(text 1 `Employee will have to pay 100% of the vandalism damages as the vandalism is severe and the employee has done this misconduct before.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uoozwndw end [(= size {72 23}) (= selected 1)] 1968 1717 [(text 1 `Employee will have to pay 100% of the vandalism damages as the vandalism is severe and the employee has done this misconduct before.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance szrmozdo end [(= size {72 24}) (= selected 1)] 1308 1464 [(text 1 `Employee need to pay 50% of the vandalism damages as the punishment because the vandalism is severe even though employee is a first time offender.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ayvdplyp code [(= size {72 25}) (= selected 1)] 492 972 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hofxqjbw code [(= size {72 24}) (= selected 1)] 1740 960 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ioyddufn question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1836 942 [(text 1 `question18` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nbmxfkhm expression [(= size {72 24}) (= selected 1)] 1812 1020 [(text 1 ` Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wubbembl expression [(= size {72 24}) (= selected 1)] 1896 1020 [(text 1 ` 'Not guilty'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kiteuxbw code [(= size {72 24}) (= selected 1)] 1800 1056 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ukqhprdr end [(= size {72 24}) (= selected 1)] 1164 1200 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of act of violence.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ncusyjtq end [(= size {72 24}) (= selected 1)] 1896 1056 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wyykuqax question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 1380 750 [(text 1 `question16` [(= visible 2)]) (text 2 `What is the supporting evidences that has been collected?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of evidence to be brought up to the employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance qrxupgkj question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 1368 894 [(text 1 `question28` [(= visible 2)]) (text 2 `What is the supporting evidences that has been collected?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of evidence to be brought up to the employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ysuvcbhs end [(= size {72 24}) (= selected 1)] 1680 1716 [(text 1 `Employee need to pay 50% of the vandalism damages as the punishment because the vandalism is severe even though employee is a first time offender.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qcppdkyv end [(= size {72 24}) (= selected 1)] 1764 1716 [(text 1 `Employee need to pay 25% of the vandalism damages as the punishment because the employee is a first time offender and the vandalism is not severe.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xokjcybq expression [(= size {72 24}) (= selected 1)] 72 324 [(text 1 `Received` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance adqnrpfr expression [(= size {72 24}) (= selected 1)] 192 324 [(text 1 `'Not received'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bakdhhes expression [(= size {72 24}) (= selected 1)] 84 144 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uyuswbgn expression [(= size {72 24}) (= selected 1)] 192 144 [(text 1 ` No~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ariyrdvc expression [(= size {72 24}) (= selected 1)] 1416 1296 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance guiraxzp expression [(= size {72 24}) (= selected 1)] 1188 1428 [(text 1 `No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ljzquhrk expression [(= size {72 24}) (= selected 1)] 1104 1428 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance syvcvlgz expression [(= size {72 24}) (= selected 1)] 1248 1536 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gjblvvrj expression [(= size {72 24}) (= selected 1)] 1140 1536 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance isrrpmfg expression [(= size {72 24}) (= selected 1)] 1188 1668 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance whvmyskm expression [(= size {72 24}) (= selected 1)] 1296 1680 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance oykmqdkt question [(= question_type multiple_choice) (= size {96 60}) (= selected 1)] 876 426 [(text 1 `question24` [(= visible 2)]) (text 2 `What is the supporting evidences that has been collected?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of evidence to be brought up to the employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance oznoxklc code [(= size {240 25}) (= selected 1)] 888 372 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nngxqxbe question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 948 846 [(text 1 `question27` [(= visible 2)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance cfxlvqyt code [(= size {72 24}) (= selected 1)] 1008 1968 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gmfzupdc expression [(= size {72 24}) (= selected 1)] 1128 1932 [(text 1 `  'Not guilty'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qkhssele expression [(= size {72 24}) (= selected 1)] 1008 1932 [(text 1 ` Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tmhzwcyu question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1092 1854 [(text 1 `question37` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance omyjilvf code [(= size {72 24}) (= selected 1)] 1092 1788 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gorjmiaf code [(= size {72 24}) (= selected 1)] 1092 1740 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xfbmsagb end [(= size {72 24}) (= selected 1)] 1128 2004 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zoqvfgwk end [(= size {72 24}) (= selected 1)] 1020 2004 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of act of violence.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ziweqfpp expression [(= size {72 24}) (= selected 1)] 276 948 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gwcmxzzp expression [(= size {72 24}) (= selected 1)] 360 948 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mxyvgiju end [(= size {72 24}) (= selected 1)] 276 996 [(text 1 `No further action will be taken from employee as the employee has enough annual leave to cover for their absence in the workplace.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zpfzfnfe code [(= size {72 24}) (= selected 1)] 504 84 [(text 1 `flash( 'Employee work performance will be assessed.')` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zqmrwcak code [(= size {72 24}) (= selected 1)] 360 1032 [(text 1 `flash( 'Employee work performance will be assessed.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rhjyhvxe question [(= question_type single_choice) (= size {144 72}) (= selected 3)] 480 144 [(text 1 `question7` [(= visible 2)]) (text 2 `Is employee have good or bad work performance?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what is the work performance of employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fagypekw expression [(= size {72 24}) (= selected 1)] 612 252 [(text 1 `Bad` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gddikwpl question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 348 1074 [(text 1 `question42` [(= visible 2)]) (text 2 `Is employee have good or bad work performance?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what is the work performance of employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gcbzsvbx expression [(= size {72 24}) (= selected 1)] 528 252 [(text 1 `Good` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qwhblclr expression [(= size {72 24}) (= selected 1)] 300 1152 [(text 1 `Good` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lviatrjx end [(= size {72 24}) (= selected 1)] 432 252 [(text 1 `Employee will be given verbal warning by the employee which signifies that the employee will be undergone punishment if the employee done the minor misconduct again.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ercfhgng end [(= size {72 24}) (= selected 1)] 252 1104 [(text 1 `Employee will be given verbal warning by the employee which signifies that the employee will be undergone punishment if the employee done the minor misconduct again.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hcomooed expression [(= size {72 24}) (= selected 1)] 384 1152 [(text 1 ` Bad` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance aoqimsqk question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 384 1194 [(text 1 `question43` [(= visible 2)]) (text 2 `Is this a first Occurance of misconduct for the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine the severity of the case of the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance srxgnntb expression [(= size {72 24}) (= selected 1)] 288 1224 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance diotevph expression [(= size {72 24}) (= selected 1)] 384 1284 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ltssmsav end [(= size {72 24}) (= selected 1)] 192 1224 [(text 1 `The employee will undergo counselling as to make sure that the employee will not repeat the minor misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mrtydhok code [(= size {72 24}) (= selected 1)] 384 1344 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ynmasfpu question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 384 1386 [(text 1 `question44` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fwavgmra expression [(= size {72 24}) (= selected 1)] 336 1476 [(text 1 `     =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance krsduuyt expression [(= size {72 25}) (= selected 1)] 444 1476 [(text 1 `     = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vvngpfhg question [(= question_type single_choice) (= size {84 59}) (= selected 3)] 1134 1339 [(text 1 `question38` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed a direct superior of the accused employee` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior` [(= visible 2) (= edited 1)])])
+
+(vrl_instance txshwvez question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1788 1146 [(text 1 `question45` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed a direct superior of the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hqmlzcef expression [(= size {72 24}) (= selected 1)] 1896 1152 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dgrfqruy expression [(= size {72 24}) (= selected 1)] 1896 1188 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nyripspy end [(= size {72 25}) (= selected 1)] 1068 1476 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eikhtimv end [(= size {72 24}) (= selected 1)] 1896 1116 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ibfboigf question [(= question_type single_choice) (= size {108 48}) (= selected 3)] 1170 1476 [(text 1 `question39` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed involved in the investigation` [(= visible 2) (= edited 1)]) (text 3 `To ensure the judge is not in cahoot with the accused employee` [(= visible 2) (= edited 1)])])
+
+(vrl_instance fwujpshm question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1992 1158 [(text 1 `question46` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed involved in the investigation~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the judge is not in cahoot with the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance vldwkadn end [(= size {72 24}) (= selected 1)] 1140 1584 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance havcgiff end [(= size {72 24}) (= selected 1)] 2016 1080 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vohdqiwe expression [(= size {72 24}) (= selected 1)] 2016 1116 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eqnkcnhk code [(= size {72 24}) (= selected 1)] 1296 1728 [(text 1 `flash('Rule of Natural Justice is uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rcpyhaec code [(= size {72 24}) (= selected 1)] 1788 1212 [(text 1 `flash('Rule of Natural Justice is uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jftephdx expression [(= size {72 26}) (= selected 1)] 1992 1247 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eaquwnrs expression [(= size {72 24}) (= selected 1)] 2016 1368 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dscnpxdo question [(= question_type single_choice) (= size {132 60}) (= selected 2)] 1230 1578 [(text 1 `question40` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused employee` [(= visible 2) (= edited 1)]) (text 3 `To ensure the Impartiality of the Inquiry Panel` [(= visible 2) (= edited 1)])])
+
+(vrl_instance adplymbo question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 2004 1290 [(text 1 `question47` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `explanation` [(= visible 2)])])
+
+(vrl_instance tloexmds expression [(= size {72 24}) (= selected 1)] 1908 1272 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fglvkzqc end [(= size {72 24}) (= selected 1)] 1188 1704 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ilwnetdc end [(= size {72 24}) (= selected 1)] 2016 1416 [(text 1 `Dismiss him/her as the Inquiry Panel and appoint another employee as the Inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dbyxocjq code [(= size {72 24}) (= selected 1)] 1728 756 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance csvrhxeh end [(= size {72 24}) (= selected 1)] 1728 720 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of theft.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lpyjjygi expression [(= size {72 24}) (= selected 1)] 1740 684 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance staptxol end [(= size {72 24}) (= selected 1)] 1644 684 [(text 1 `Dismiss the Inquiry Panels and Appoint another employee as the Inquiry Panels~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance muuvtvjd expression [(= size {72 24}) (= selected 1)] 1920 708 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hrbzqeyy question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 1932 762 [(text 1 `question49` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed in the investigation~M~J` [(= visible 2) (= edited 1)]) (text 3 `explanation` [(= visible 2)])])
+
+(vrl_instance sthwyiew expression [(= size {72 24}) (= selected 1)] 2016 780 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zdwgjwmq question [(= question_type single_choice) (= size {72 60}) (= selected 1)] 1836 642 [(text 1 `question48` [(= visible 2)]) (text 2 `Is the Inquiry Panel Appointed a direct superior of the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance tqfdlvte end [(= size {72 24}) (= selected 1)] 2028 744 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance althogez expression [(= size {72 24}) (= selected 1)] 1932 828 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zuqyucqa question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1968 870 [(text 1 `question50` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the impartiality of the judge~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mfgfcqai expression [(= size {72 24}) (= selected 1)] 1884 876 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zzrzufgp code [(= size {72 24}) (= selected 1)] 1836 840 [(text 1 `flash('Rule of Natural Justice is uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wovxzyrp expression [(= size {72 24}) (= selected 1)] 1956 948 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mybeeyfw end [(= size {72 24}) (= selected 1)] 1992 996 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dtsdeeca code [(= size {72 24}) (= selected 1)] 336 1524 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jutyxszd code [(= size {72 26}) (= selected 1)] 456 1523 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tkcdcinj code [(= size {72 26}) (= selected 1)] 408 1571 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kztdiipq question [(= question_type single_choice) (= size {84 60}) (= selected 2)] 414 1614 [(text 1 `question51` [(= visible 2)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `explanation` [(= visible 2)])])
+
+(vrl_instance raetbloq expression [(= size {72 24}) (= selected 1)] 516 1632 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zyrdocls end [(= size {72 24}) (= selected 1)] 540 1596 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ovmttulp code [(= size {72 24}) (= selected 1)] 480 1716 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gwykyzvi code [(= size {72 24}) (= selected 1)] 588 1716 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zhkdretg code [(= size {72 26}) (= selected 1)] 588 1775 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xaxxfaft question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 480 1770 [(text 1 `question52` [(= visible 2)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ywmurvco expression [(= size {72 24}) (= selected 1)] 264 1884 [(text 1 `    =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance srmkocjj expression [(= size {72 24}) (= selected 1)] 384 1704 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xdslgfie expression [(= size {72 24}) (= selected 1)] 384 1764 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qkpltnhv code [(= size {72 24}) (= selected 1)] 336 1800 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yfohvbww code [(= size {72 24}) (= selected 1)] 252 1776 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ycmqykua code [(= size {72 24}) (= selected 1)] 96 1776 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pnhfkmfu code [(= size {72 24}) (= selected 1)] 168 1740 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wutdqnhk expression [(= size {72 24}) (= selected 1)] 132 1956 [(text 1 `    = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yetluuqo end [(= size {72 24}) (= selected 1)] 144 2016 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ceinmmze code [(= size {72 24}) (= selected 1)] 360 1896 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance epbsyory code [(= size {72 24}) (= selected 1)] 456 1896 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance benftdmv question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 552 1878 [(text 1 `question54` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jiolzssq expression [(= size {72 24}) (= selected 1)] 648 1884 [(text 1 ` 'Admitted offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yaqiinan code [(= size {72 24}) (= selected 1)] 684 1824 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xwsvntaz end [(= size {72 24}) (= selected 1)] 720 1764 [(text 1 `The employee will be fired and legal action will be taken upon him as the consequences of act of violence.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ngetgdjh expression [(= size {72 24}) (= selected 1)] 336 804 [(text 1 ` 'The employer have received notice of absence from mployee'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance wdzkfmnw question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 336 858 [(text 1 `question41` [(= visible 2)]) (text 2 `Does the employee still have enough Annual leave days to compensate for the named employee absence?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine whether the employee acsence is acceptable or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zmxrqgef code [(= size {72 26}) (= selected 1)] 360 995 [(text 1 `flash( 'Employee has committed minor misconduct.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mnghipik question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 144 1866 [(text 1 `question53` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance heetipjl expression [(= size {72 24}) (= selected 1)] 552 1944 [(text 1 `   'Does not admit to the offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ubgaceiw code [(= size {72 24}) (= selected 1)] 552 1980 [(text 1 `flash(' Will appoint Inquiry Panels that are neutral to the case. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance niwrrjck question [(= question_type single_choice) (= size {72 60}) (= selected 2)] 648 1950 [(text 1 `question55` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed a direct superior of the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance xcbllzvc code [(= size {72 24}) (= selected 1)] 348 2064 [(text 1 `flash('Natural Justice is Uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance smsawxpo expression [(= size {72 24}) (= selected 1)] 444 2040 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tcaidihi expression [(= size {72 24}) (= selected 1)] 756 1968 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance axcokzzl expression [(= size {72 24}) (= selected 1)] 660 2040 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance veyfxful expression [(= size {72 24}) (= selected 1)] 708 2112 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance stglajvu code [(= size {72 24}) (= selected 1)] 264 2064 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ftqivrvi code [(= size {72 24}) (= selected 1)] 240 2112 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ugpcayvq end [(= size {72 24}) (= selected 1)] 768 1932 [(text 1 `Dismiss the inquiry panels of their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pauaxmmz end [(= size {72 24}) (= selected 1)] 816 2124 [(text 1 `Dismiss the Inquiry Panel and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eymslhel end [(= size {72 24}) (= selected 1)] 468 1992 [(text 1 `Dismiss the employee and Appoint another employee as the Inquiry Panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mcfawzoi expression [(= size {72 24}) (= selected 1)] 336 2112 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance grebikhv end [(= size {72 24}) (= selected 1)] 168 2148 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hkzhifnl expression [(= size {72 24}) (= selected 1)] 144 2184 [(text 1 ` 'Not guilty'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tqulpowa question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 612 2094 [(text 1 `question56` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed involved in the investigation~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the judge is not in cahoot with the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance diwwjepc question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 240 2166 [(text 1 `question58` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ktijluap code [(= size {72 24}) (= selected 1)] 420 2196 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance upsvrgct expression [(= size {72 24}) (= selected 1)] 516 2112 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance lggieaem question [(= question_type single_choice) (= size {72 60}) (= selected 1)] 432 2094 [(text 1 `question57` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the Impartiality of the Inquiry Panel~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance kvfqmnzw expression [(= size {72 24}) (= selected 1)] 336 2196 [(text 1 ` Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sjrgeyiu expression [(= size {72 24}) (= selected 1)] 1632 168 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xhneujfk expression [(= size {72 24}) (= selected 1)] 1644 216 [(text 1 `Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eiyeiifw question [(= question_type single_choice) (= size {84 60}) (= selected 3)] 1482 174 [(text 1 `question22` [(= visible 2)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure that the complainant is truthful about the report.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance ytijnxvx code [(= size {72 24}) (= selected 1)] 1380 204 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance sxrkzqvt code [(= size {72 24}) (= selected 1)] 1260 216 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance adeycicz code [(= size {72 24}) (= selected 1)] 1212 180 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uwsizxnw expression [(= size {72 25}) (= selected 1)] 1080 216 [(text 1 `  =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance frsiaeun expression [(= size {72 24}) (= selected 1)] 1164 252 [(text 1 `  = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ffjosalt question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 1020 306 [(text 1 `question21` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jjaidgjn expression [(= size {72 24}) (= selected 1)] 1332 264 [(text 1 ` Yes~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ldhdrhur code [(= size {72 23}) (= selected 1)] 1740 265 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tvzhgtrv code [(= size {72 24}) (= selected 1)] 1632 264 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance okzdeald code [(= size {72 24}) (= selected 1)] 1536 264 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ywpzwfgl code [(= size {72 24}) (= selected 1)] 1248 312 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gsbcurtx code [(= size {72 24}) (= selected 1)] 1248 348 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance irvewlql question [(= question_type single_choice) (= size {96 61}) (= selected 2)] 1428 246 [(text 1 `question23` [(= visible 2)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance iriyyvij code [(= size {72 24}) (= selected 1)] 1248 264 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zwvmrlgn end [(= size {72 24}) (= selected 1)] 1728 168 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jztjiwgc expression [(= size {72 24}) (= selected 1)] 696 120 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance noevsltj end [(= size {72 24}) (= selected 1)] 708 84 [(text 1 ` The employee will undergo counselling as to make sure that the employee will not repeat the minor misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qzudrgip question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 684 174 [(text 1 `question59` [(= visible 2)]) (text 2 `Is this a first Occurance of misconduct for the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To determine the severity of the case of the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance praucuyo expression [(= size {72 25}) (= selected 1)] 780 192 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance uoisthsx code [(= size {72 24}) (= selected 1)] 864 144 [(text 1 `flash( ' Employee has committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kvqtsexv question [(= question_type multiple_choice) (= size {72 60}) (= selected 3)] 972 66 [(text 1 `question60` [(= visible 2)]) (text 2 `From the perspective of a HR manager, Is there any reason for you to believe that the employee did a major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `A HR manager must reasonably believe that the named employee committed a misconduct for an investigation to occur (Factual Basis).~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nxhicoks expression [(= size {72 24}) (= selected 1)] 1104 48 [(text 1 `   =<[grudge_at_company,employee_recently_fired,employee_has_record_of_major_misconduct,bad_behaviour] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dulkgalw expression [(= size {72 24}) (= selected 1)] 1104 120 [(text 1 `   = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tzwjgehb code [(= size {72 24}) (= selected 1)] 1224 60 [(text 1 `flash( ' It is believable that the employee commit major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance timlvbxp code [(= size {72 24}) (= selected 1)] 1224 120 [(text 1 `flash( ' Not entirely sure whether the employee committed major misconduct.' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance evuiiuel code [(= size {72 24}) (= selected 1)] 1332 96 [(text 1 `flash(' Will contact and interview the complainant. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance dwcqptlf question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1440 78 [(text 1 `question61` [(= visible 2)]) (text 2 `Does the complainant has witnesses for the employee's major misconduct?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure that the complainant is truthful about the report.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance nhhzkurm end [(= size {72 30}) (= selected 1)] 1536 33 [(text 1 `No further action will be taken to the employee as there are no factual basis to conduct investigation to the employee.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ndgdqihh expression [(= size {72 24}) (= selected 1)] 1428 36 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nvpwdssk expression [(= size {72 24}) (= selected 1)] 1536 96 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vmokaaem code [(= size {72 24}) (= selected 1)] 1656 96 [(text 1 `flash( ' There is enough reason that the employee commited major misconduct. ' )~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance humuotqf code [(= size {72 24}) (= selected 1)] 1764 72 [(text 1 `flash( 'Have factual basis to carry out investigation to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eeaeuxad code [(= size {72 24}) (= selected 1)] 1920 24 [(text 1 `flash( 'Investigation will be carry out.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hoxuzkpz question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 2016 30 [(text 1 `question62` [(= visible 2)]) (text 2 `Are investigation is conducted to the employee's case?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know if the suspected employee is been investigate or not.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance jamuqwyz expression [(= size {72 24}) (= selected 1)] 2004 120 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vmhidftt code [(= size {72 24}) (= selected 1)] 2004 180 [(text 1 `false(' Employee and the complainant will be given paid leave for two weeks to make sure investigations are not affected by their presence at workplace. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cokqegwj code [(= size {72 24}) (= selected 1)] 1992 276 [(text 1 `false(' Supporting evidences against the employee will be compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xglujqyd code [(= size {72 24}) (= selected 1)] 1992 312 [(text 1 `false(' Accused employee and complainant profile documents will also be included. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance gvjwvktw expression [(= size {72 24}) (= selected 1)] 2112 252 [(text 1 `   = [None]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance hlfdmjle end [(= size {72 24}) (= selected 1)] 2112 204 [(text 1 `No further action will be taken to the employee as no supporting evidence against the employee are found.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance pomilypp expression [(= size {72 24}) (= selected 1)] 2100 372 [(text 1 `   =<[Witnesses,CCTV_recording,Incident_report,Victim_profile,Screenshot_of_text_messages,Pictures_of_vandalised_property,Incriminating_exhibits,Scene_of_crime,Weakness_in_system] and >[]~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zlxwuorw code [(= size {72 24}) (= selected 1)] 2172 336 [(text 1 `flash(' Supporting documents are compiled. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fkofsvbd code [(= size {72 24}) (= selected 1)] 2220 384 [(text 1 `flash(' Show cause letter will be sent to the employee.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ejnjsagw question [(= question_type single_choice) (= size {99 60}) (= selected 3)] 2267 282 [(text 1 `question64` [(= visible 2)]) (text 2 `What is the employee reply to the show cause letter?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To give the employee a fair hearing to explain his alleged misconduct as accordance to the natural justice.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance mydtkgtf code [(= size {72 24}) (= selected 1)] 2280 204 [(text 1 `flash(' Employee will be punished accordingly. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kcauqwqy expression [(= size {72 24}) (= selected 1)] 2316 384 [(text 1 `   'Does not admit to the offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance untvvlvl code [(= size {72 24}) (= selected 1)] 2316 420 [(text 1 `flash(' Will appoint Inquiry Panels. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bphhwdvq code [(= size {72 24}) (= selected 1)] 2004 228 [(text 1 `false(' Employee will also be informed of the potential charges. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance bdnkdisb question [(= question_type multiple_choice) (= size {72 60}) (= selected 1)] 2088 294 [(text 1 `question63` [(= visible 2)]) (text 2 `What is the supporting evidences that has been collected?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of evidence to be brought up to the employee.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance uorhjhua expression [(= size {72 24}) (= selected 1)] 2280 240 [(text 1 `  'Admitted offense'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mfaqyoun expression [(= size {72 24}) (= selected 1)] 2232 492 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ygqezfun expression [(= size {72 24}) (= selected 1)] 2136 588 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ugtzeptr expression [(= size {72 24}) (= selected 1)] 2136 720 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance cldpughc expression [(= size {72 24}) (= selected 1)] 2232 660 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance idpwdtzg question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 2328 486 [(text 1 `question65` [(= visible 2)]) (text 2 `Is the Inquiry Panel Appointed a direct superior of the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance zwbhrhlf question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 2220 570 [(text 1 `question66` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed in the investigation~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the judge is not in cahoot with the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance hidtcrzd question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 2220 714 [(text 1 `question67` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the impartiality of the judge~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gmrqwoyl expression [(= size {72 24}) (= selected 1)] 2232 792 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qfroenqc code [(= size {72 24}) (= selected 1)] 2232 840 [(text 1 `flash('Rule of Natural Justice is uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ptzfwpxv code [(= size {72 24}) (= selected 1)] 2316 840 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance iukbjcdu code [(= size {72 24}) (= selected 1)] 2400 840 [(text 1 `flash(' Employee undergoes domestic inquiry. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nxykxqfe question [(= question_type single_choice) (= size {99 48}) (= selected 3)] 2339 744 [(text 1 `question68` [(= visible 2)]) (text 2 `What is the verdict of the domestic inquiry?~M~J` [(= visible 2) (= edited 1)]) (text 3 `To know what kind of action to be done to the employee after the domestic inquiry.~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance bapxfghx expression [(= size {72 24}) (= selected 1)] 2460 768 [(text 1 ` Guilty` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance crvthxfz expression [(= size {72 24}) (= selected 1)] 2340 696 [(text 1 `  'Not guilty'~M~J` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance qgcdzerj end [(= size {72 24}) (= selected 1)] 2352 648 [(text 1 `No further action will be taken to the employee as the domestic inquiry failed to prove that the employee has done the major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yjwvvqxy code [(= size {72 24}) (= selected 1)] 2472 720 [(text 1 `flash(' Employee will be punished. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance eguloajn end [(= size {72 24}) (= selected 1)] 2148 492 [(text 1 `Dismiss the Inquiry Panels and Appoint another employee as the Inquiry Panels~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yqwinruh end [(= size {72 24}) (= selected 1)] 2136 552 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance rudhkrwe end [(= size {72 24}) (= selected 1)] 2136 660 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance apjlwyun expression [(= size {72 25}) (= selected 1)] 2340 564 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance tnzhsyse end [(= size {72 24}) (= selected 1)] 504 2196 [(text 1 `The employee will be suspended from work as the consequences of repeated minor misconduct that leads to becoming major misconduct.` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance xoljxctm end [(= size {72 30}) (= selected 1)] 2280 153 [(text 1 `The employee will be suspended from work as the consequences of repeated minor misconduct that leads to becoming major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance kxvallqo end [(= size {72 24}) (= selected 1)] 2484 660 [(text 1 `The employee will be suspended from work as the consequences of repeated minor misconduct that leads to becoming major misconduct.~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance onznhicq code [(= size {72 24}) (= selected 1)] 1668 480 [(text 1 `flash('Domestic Enquiry will be conducted.')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance nsexmaxu code [(= size {72 25}) (= selected 1)] 1620 432 [(text 1 `flash(' Will appoint Inquiry Panels that are neutral to the case. ')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance yjmbgmwq expression [(= size {72 24}) (= selected 1)] 1476 444 [(text 1 `'Does not admit to the offense'` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ftvtovja question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1740 330 [(text 1 `question69` [(= visible 2)]) (text 2 `Is the Inquiry Panel Appointed a direct superior of the accused employee~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the decision is not tainted by bias of the accused superior~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance oirjrmit expression [(= size {72 24}) (= selected 1)] 1656 336 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ajpkrwli expression [(= size {72 24}) (= selected 1)] 1836 348 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance mrvzqciu expression [(= size {72 24}) (= selected 1)] 1992 396 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance jrychrjg expression [(= size {72 24}) (= selected 1)] 1896 504 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance slpczaxj expression [(= size {72 24}) (= selected 1)] 1992 564 [(text 1 ` Yes` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance umfoktpe expression [(= size {72 24}) (= selected 1)] 1824 492 [(text 1 ` No` [(= fore vrl_valid) (= visible 2)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance vzlmdpgz code [(= size {72 24}) (= selected 1)] 1776 456 [(text 1 `flash('Rule of Natural Justice is uphold')~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance ynbgikbe end [(= size {72 24}) (= selected 1)] 1548 336 [(text 1 `Dismiss the Inquiry Panels and Appoint another employee as the Inquiry Panels~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance fllgakne question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1884 414 [(text 1 `question70` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed in the investigation~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the judge is not in cahoot with the accused employee~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance tvcvxczh end [(= size {72 24}) (= selected 1)] 2064 432 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance zdznscry question [(= question_type single_choice) (= size {72 60}) (= selected 3)] 1884 546 [(text 1 `question71` [(= visible 2)]) (text 2 `Is the Inquiry Panel appointed from the same department as the accused~M~J` [(= visible 2) (= edited 1)]) (text 3 `To ensure the impartiality of the judge~M~J` [(= visible 2) (= edited 1)])])
+
+(vrl_instance gmqhjxxv end [(= size {72 24}) (= selected 1)] 2004 624 [(text 1 `Dismiss Inquiry panel from their responsibility and appoint another employee as the inquiry panel~M~J` [(= visible 2) (= edited 1)]) (text 2 ` ` [(= visible 2)]) (text 3 ` ` [(= visible 2)])])
+
+(vrl_instance {yvyuifwc psdnxtvr} link [(= size {0 0})] yvyuifwc psdnxtvr [arrow line])
+
+(vrl_instance {psdnxtvr bakdhhes} link [(= size {0 0})] psdnxtvr bakdhhes [arrow line])
+
+(vrl_instance {psdnxtvr uyuswbgn} link [(= size {0 0})] psdnxtvr uyuswbgn [arrow line])
+
+(vrl_instance {uyuswbgn lprggqfv} link [(= size {0 0})] uyuswbgn lprggqfv [arrow line])
+
+(vrl_instance {lprggqfv mczopygq} link [(= size {0 0})] lprggqfv mczopygq [arrow line])
+
+(vrl_instance {kzfebcji qhydfvzf} link [(= size {0 0})] kzfebcji qhydfvzf [arrow line])
+
+(vrl_instance {qhydfvzf xokjcybq} link [(= size {0 0})] qhydfvzf xokjcybq [arrow line])
+
+(vrl_instance {qhydfvzf adqnrpfr} link [(= size {0 0})] qhydfvzf adqnrpfr [arrow line])
+
+(vrl_instance {adqnrpfr odmhvjbv} link [(= size {0 0})] adqnrpfr odmhvjbv [arrow line])
+
+(vrl_instance {odmhvjbv lprggqfv} link [(= size {0 0})] odmhvjbv lprggqfv [arrow line])
+
+(vrl_instance {bakdhhes kzfebcji} link [(= size {0 0})] bakdhhes kzfebcji [arrow line])
+
+(vrl_instance {xokjcybq cxvviqzs} link [(= size {0 0})] xokjcybq cxvviqzs [arrow line])
+
+(vrl_instance {cxvviqzs jhmxjnyq} link [(= size {0 0})] cxvviqzs jhmxjnyq [arrow line])
+
+(vrl_instance {jhmxjnyq utvchyqt} link [(= size {0 0})] jhmxjnyq utvchyqt [arrow line])
+
+(vrl_instance {utvchyqt wxacecnb} link [(= size {0 0})] utvchyqt wxacecnb [arrow line])
+
+(vrl_instance {utvchyqt ezrukquv} link [(= size {0 0})] utvchyqt ezrukquv [arrow line])
+
+(vrl_instance {ezrukquv umivjpgz} link [(= size {0 0})] ezrukquv umivjpgz [arrow line])
+
+(vrl_instance {utvchyqt cjmeohva} link [(= size {0 0})] utvchyqt cjmeohva [arrow line])
+
+(vrl_instance {cjmeohva mujidomk} link [(= size {0 0})] cjmeohva mujidomk [arrow line])
+
+(vrl_instance {umivjpgz yahngrrj} link [(= size {0 0})] umivjpgz yahngrrj [arrow line])
+
+(vrl_instance {mujidomk uiakcvqo} link [(= size {0 0})] mujidomk uiakcvqo [arrow line])
+
+(vrl_instance {uiakcvqo kmluwvex} link [(= size {0 0})] uiakcvqo kmluwvex [arrow line])
+
+(vrl_instance {uiakcvqo zsduppvc} link [(= size {0 0})] uiakcvqo zsduppvc [arrow line])
+
+(vrl_instance {yahngrrj flbkqplk} link [(= size {0 0})] yahngrrj flbkqplk [arrow line])
+
+(vrl_instance {yahngrrj mxisoltp} link [(= size {0 0})] yahngrrj mxisoltp [arrow line])
+
+(vrl_instance {mxisoltp vqubiott} link [(= size {0 0})] mxisoltp vqubiott [arrow line])
+
+(vrl_instance {kmluwvex vqubiott} link [(= size {0 0})] kmluwvex vqubiott [arrow line])
+
+(vrl_instance {zsduppvc ybdqfyli} link [(= size {0 0})] zsduppvc ybdqfyli [arrow line])
+
+(vrl_instance {vqubiott smxcalax} link [(= size {0 0})] vqubiott smxcalax [arrow line])
+
+(vrl_instance {vqubiott bxlvxzko} link [(= size {0 0})] vqubiott bxlvxzko [arrow line])
+
+(vrl_instance {vqubiott rarhdpek} link [(= size {0 0})] vqubiott rarhdpek [arrow line])
+
+(vrl_instance {vqubiott ngetgdjh} link [(= size {0 0})] vqubiott ngetgdjh [arrow line])
+
+(vrl_instance {vqubiott wllbpork} link [(= size {0 0})] vqubiott wllbpork [arrow line])
+
+(vrl_instance {smxcalax qjhbqyrh} link [(= size {0 0})] smxcalax qjhbqyrh [arrow line])
+
+(vrl_instance {bxlvxzko qjhbqyrh} link [(= size {0 0})] bxlvxzko qjhbqyrh [arrow line])
+
+(vrl_instance {qjhbqyrh msxpvchd} link [(= size {0 0})] qjhbqyrh msxpvchd [arrow line])
+
+(vrl_instance {wllbpork gtsfekcm} link [(= size {0 0})] wllbpork gtsfekcm [arrow line])
+
+(vrl_instance {flbkqplk xmtrusoa} link [(= size {0 0})] flbkqplk xmtrusoa [arrow line])
+
+(vrl_instance {rarhdpek qjhbqyrh} link [(= size {0 0})] rarhdpek qjhbqyrh [arrow line])
+
+(vrl_instance {gtsfekcm jhgxhwxh} link [(= size {0 0})] gtsfekcm jhgxhwxh [arrow line])
+
+(vrl_instance {zympddal zpfzfnfe} link [(= size {0 0})] zympddal zpfzfnfe [arrow line])
+
+(vrl_instance {rhjyhvxe gcbzsvbx} link [(= size {0 0})] rhjyhvxe gcbzsvbx [arrow line])
+
+(vrl_instance {rhjyhvxe fagypekw} link [(= size {0 0})] rhjyhvxe fagypekw [arrow line])
+
+(vrl_instance {gcbzsvbx lviatrjx} link [(= size {0 0})] gcbzsvbx lviatrjx [arrow line])
+
+(vrl_instance {zpfzfnfe rhjyhvxe} link [(= size {0 0})] zpfzfnfe rhjyhvxe [arrow line])
+
+(vrl_instance {wxacecnb bmzrcuyh} link [(= size {0 0})] wxacecnb bmzrcuyh [arrow line])
+
+(vrl_instance {bmzrcuyh ucpxzzrl} link [(= size {0 0})] bmzrcuyh ucpxzzrl [arrow line])
+
+(vrl_instance {cjmeohva idjelqeg} link [(= size {0 0})] cjmeohva idjelqeg [arrow line])
+
+(vrl_instance {cjmeohva okwlrvbk} link [(= size {0 0})] cjmeohva okwlrvbk [arrow line])
+
+(vrl_instance {cjmeohva vqstrlvy} link [(= size {0 0})] cjmeohva vqstrlvy [arrow line])
+
+(vrl_instance {cjmeohva mcbcohso} link [(= size {0 0})] cjmeohva mcbcohso [arrow line])
+
+(vrl_instance {ayvdplyp czuxpftg} link [(= size {0 0})] ayvdplyp czuxpftg [arrow line])
+
+(vrl_instance {czuxpftg mccbkxpn} link [(= size {0 0})] czuxpftg mccbkxpn [arrow line])
+
+(vrl_instance {czuxpftg fmdbczgb} link [(= size {0 0})] czuxpftg fmdbczgb [arrow line])
+
+(vrl_instance {mccbkxpn zzzzpmjo} link [(= size {0 0})] mccbkxpn zzzzpmjo [arrow line])
+
+(vrl_instance {fmdbczgb ivvofief} link [(= size {0 0})] fmdbczgb ivvofief [arrow line])
+
+(vrl_instance {zzzzpmjo owxkyzts} link [(= size {0 0})] zzzzpmjo owxkyzts [arrow line])
+
+(vrl_instance {ivvofief owxkyzts} link [(= size {0 0})] ivvofief owxkyzts [arrow line])
+
+(vrl_instance {owxkyzts gwxjgozo} link [(= size {0 0})] owxkyzts gwxjgozo [arrow line])
+
+(vrl_instance {gwxjgozo ougawrox} link [(= size {0 0})] gwxjgozo ougawrox [arrow line])
+
+(vrl_instance {gwxjgozo yvfunhxx} link [(= size {0 0})] gwxjgozo yvfunhxx [arrow line])
+
+(vrl_instance {ougawrox jijmlgwh} link [(= size {0 0})] ougawrox jijmlgwh [arrow line])
+
+(vrl_instance {yvfunhxx uxbkswnh} link [(= size {0 0})] yvfunhxx uxbkswnh [arrow line])
+
+(vrl_instance {uxbkswnh njevqcto} link [(= size {0 0})] uxbkswnh njevqcto [arrow line])
+
+(vrl_instance {njevqcto weuaboxa} link [(= size {0 0})] njevqcto weuaboxa [arrow line])
+
+(vrl_instance {weuaboxa sxsdfuxt} link [(= size {0 0})] weuaboxa sxsdfuxt [arrow line])
+
+(vrl_instance {sxsdfuxt zruthiqm} link [(= size {0 0})] sxsdfuxt zruthiqm [arrow line])
+
+(vrl_instance {ackmfqlw ryltelfi} link [(= size {0 0})] ackmfqlw ryltelfi [arrow line])
+
+(vrl_instance {ryltelfi kdrgpxid} link [(= size {0 0})] ryltelfi kdrgpxid [arrow line])
+
+(vrl_instance {kdrgpxid rakpmtpf} link [(= size {0 0})] kdrgpxid rakpmtpf [arrow line])
+
+(vrl_instance {zruthiqm ackmfqlw} link [(= size {0 0})] zruthiqm ackmfqlw [arrow line])
+
+(vrl_instance {rakpmtpf cttkuvzo} link [(= size {0 0})] rakpmtpf cttkuvzo [arrow line])
+
+(vrl_instance {cttkuvzo tgmsetxx} link [(= size {0 0})] cttkuvzo tgmsetxx [arrow line])
+
+(vrl_instance {cttkuvzo dqnscqrp} link [(= size {0 0})] cttkuvzo dqnscqrp [arrow line])
+
+(vrl_instance {tgmsetxx wcxribqx} link [(= size {0 0})] tgmsetxx wcxribqx [arrow line])
+
+(vrl_instance {dqnscqrp pbmzjwda} link [(= size {0 0})] dqnscqrp pbmzjwda [arrow line])
+
+(vrl_instance {wcxribqx uxkexnsc} link [(= size {0 0})] wcxribqx uxkexnsc [arrow line])
+
+(vrl_instance {uxkexnsc vqhpuziz} link [(= size {0 0})] uxkexnsc vqhpuziz [arrow line])
+
+(vrl_instance {vqhpuziz ejnasmwd} link [(= size {0 0})] vqhpuziz ejnasmwd [arrow line])
+
+(vrl_instance {vqhpuziz lqdplqss} link [(= size {0 0})] vqhpuziz lqdplqss [arrow line])
+
+(vrl_instance {ejnasmwd yfdrrhdb} link [(= size {0 0})] ejnasmwd yfdrrhdb [arrow line])
+
+(vrl_instance {lqdplqss nkoimewc} link [(= size {0 0})] lqdplqss nkoimewc [arrow line])
+
+(vrl_instance {okwlrvbk kepvohpd} link [(= size {0 0})] okwlrvbk kepvohpd [arrow line])
+
+(vrl_instance {kepvohpd ffjosalt} link [(= size {0 0})] kepvohpd ffjosalt [arrow line])
+
+(vrl_instance {ffjosalt uwsizxnw} link [(= size {0 0})] ffjosalt uwsizxnw [arrow line])
+
+(vrl_instance {ffjosalt frsiaeun} link [(= size {0 0})] ffjosalt frsiaeun [arrow line])
+
+(vrl_instance {uwsizxnw adeycicz} link [(= size {0 0})] uwsizxnw adeycicz [arrow line])
+
+(vrl_instance {frsiaeun sxrkzqvt} link [(= size {0 0})] frsiaeun sxrkzqvt [arrow line])
+
+(vrl_instance {adeycicz ytijnxvx} link [(= size {0 0})] adeycicz ytijnxvx [arrow line])
+
+(vrl_instance {sxrkzqvt ytijnxvx} link [(= size {0 0})] sxrkzqvt ytijnxvx [arrow line])
+
+(vrl_instance {mcbcohso ayvdplyp} link [(= size {0 0})] mcbcohso ayvdplyp [arrow line])
+
+(vrl_instance {ytijnxvx eiyeiifw} link [(= size {0 0})] ytijnxvx eiyeiifw [arrow line])
+
+(vrl_instance {eiyeiifw sjrgeyiu} link [(= size {0 0})] eiyeiifw sjrgeyiu [arrow line])
+
+(vrl_instance {eiyeiifw xhneujfk} link [(= size {0 0})] eiyeiifw xhneujfk [arrow line])
+
+(vrl_instance {sjrgeyiu zwvmrlgn} link [(= size {0 0})] sjrgeyiu zwvmrlgn [arrow line])
+
+(vrl_instance {xhneujfk ldhdrhur} link [(= size {0 0})] xhneujfk ldhdrhur [arrow line])
+
+(vrl_instance {ldhdrhur tvzhgtrv} link [(= size {0 0})] ldhdrhur tvzhgtrv [arrow line])
+
+(vrl_instance {irvewlql jjaidgjn} link [(= size {0 0})] irvewlql jjaidgjn [arrow line])
+
+(vrl_instance {jjaidgjn iriyyvij} link [(= size {0 0})] jjaidgjn iriyyvij [arrow line])
+
+(vrl_instance {iriyyvij ywpzwfgl} link [(= size {0 0})] iriyyvij ywpzwfgl [arrow line])
+
+(vrl_instance {ywpzwfgl gsbcurtx} link [(= size {0 0})] ywpzwfgl gsbcurtx [arrow line])
+
+(vrl_instance {gsbcurtx oznoxklc} link [(= size {0 0})] gsbcurtx oznoxklc [arrow line])
+
+(vrl_instance {oznoxklc oykmqdkt} link [(= size {0 0})] oznoxklc oykmqdkt [arrow line])
+
+(vrl_instance {oykmqdkt fghsbtpp} link [(= size {0 0})] oykmqdkt fghsbtpp [arrow line])
+
+(vrl_instance {oykmqdkt mukigqlp} link [(= size {0 0})] oykmqdkt mukigqlp [arrow line])
+
+(vrl_instance {mukigqlp llppbwpd} link [(= size {0 0})] mukigqlp llppbwpd [arrow line])
+
+(vrl_instance {fghsbtpp hdbrezvc} link [(= size {0 0})] fghsbtpp hdbrezvc [arrow line])
+
+(vrl_instance {hdbrezvc hdelpsud} link [(= size {0 0})] hdbrezvc hdelpsud [arrow line])
+
+(vrl_instance {hdelpsud rfmxveuw} link [(= size {0 0})] hdelpsud rfmxveuw [arrow line])
+
+(vrl_instance {rfmxveuw epoelrpi} link [(= size {0 0})] rfmxveuw epoelrpi [arrow line])
+
+(vrl_instance {epoelrpi oubgnclk} link [(= size {0 0})] epoelrpi oubgnclk [arrow line])
+
+(vrl_instance {oubgnclk qmqruptt} link [(= size {0 0})] oubgnclk qmqruptt [arrow line])
+
+(vrl_instance {tvzhgtrv okzdeald} link [(= size {0 0})] tvzhgtrv okzdeald [arrow line])
+
+(vrl_instance {okzdeald irvewlql} link [(= size {0 0})] okzdeald irvewlql [arrow line])
+
+(vrl_instance {rfmxveuw yjmbgmwq} link [(= size {0 0})] rfmxveuw yjmbgmwq [arrow line])
+
+(vrl_instance {yjmbgmwq nsexmaxu} link [(= size {0 0})] yjmbgmwq nsexmaxu [arrow line])
+
+(vrl_instance {onznhicq jontkiyl} link [(= size {0 0})] onznhicq jontkiyl [arrow line])
+
+(vrl_instance {jontkiyl mgmaifuh} link [(= size {0 0})] jontkiyl mgmaifuh [arrow line])
+
+(vrl_instance {mgmaifuh kumpoqkb} link [(= size {0 0})] mgmaifuh kumpoqkb [arrow line])
+
+(vrl_instance {mgmaifuh vmjpqwsz} link [(= size {0 0})] mgmaifuh vmjpqwsz [arrow line])
+
+(vrl_instance {kumpoqkb kfhbcanv} link [(= size {0 0})] kumpoqkb kfhbcanv [arrow line])
+
+(vrl_instance {vmjpqwsz czbsjolr} link [(= size {0 0})] vmjpqwsz czbsjolr [arrow line])
+
+(vrl_instance {kfhbcanv wjjjsdok} link [(= size {0 0})] kfhbcanv wjjjsdok [arrow line])
+
+(vrl_instance {vqstrlvy brairads} link [(= size {0 0})] vqstrlvy brairads [arrow line])
+
+(vrl_instance {yfdrrhdb ukqhprdr} link [(= size {0 0})] yfdrrhdb ukqhprdr [arrow line])
+
+(vrl_instance {brairads vqxteswk} link [(= size {0 0})] brairads vqxteswk [arrow line])
+
+(vrl_instance {vqxteswk hubnohjv} link [(= size {0 0})] vqxteswk hubnohjv [arrow line])
+
+(vrl_instance {vqxteswk ebrgunsh} link [(= size {0 0})] vqxteswk ebrgunsh [arrow line])
+
+(vrl_instance {hubnohjv envsnfbm} link [(= size {0 0})] hubnohjv envsnfbm [arrow line])
+
+(vrl_instance {ebrgunsh tlymcknu} link [(= size {0 0})] ebrgunsh tlymcknu [arrow line])
+
+(vrl_instance {envsnfbm hpgkjdyd} link [(= size {0 0})] envsnfbm hpgkjdyd [arrow line])
+
+(vrl_instance {tlymcknu hpgkjdyd} link [(= size {0 0})] tlymcknu hpgkjdyd [arrow line])
+
+(vrl_instance {hpgkjdyd gyksfrsu} link [(= size {0 0})] hpgkjdyd gyksfrsu [arrow line])
+
+(vrl_instance {gyksfrsu ywfolioe} link [(= size {0 0})] gyksfrsu ywfolioe [arrow line])
+
+(vrl_instance {gyksfrsu snvhblqt} link [(= size {0 0})] gyksfrsu snvhblqt [arrow line])
+
+(vrl_instance {ywfolioe nqcmhiwv} link [(= size {0 0})] ywfolioe nqcmhiwv [arrow line])
+
+(vrl_instance {snvhblqt mpscnhxd} link [(= size {0 0})] snvhblqt mpscnhxd [arrow line])
+
+(vrl_instance {mpscnhxd gictqmcx} link [(= size {0 0})] mpscnhxd gictqmcx [arrow line])
+
+(vrl_instance {gictqmcx lldjtfyl} link [(= size {0 0})] gictqmcx lldjtfyl [arrow line])
+
+(vrl_instance {lldjtfyl pjlqznxc} link [(= size {0 0})] lldjtfyl pjlqznxc [arrow line])
+
+(vrl_instance {pjlqznxc jcnolccr} link [(= size {0 0})] pjlqznxc jcnolccr [arrow line])
+
+(vrl_instance {jcnolccr mpuaxgre} link [(= size {0 0})] jcnolccr mpuaxgre [arrow line])
+
+(vrl_instance {mpuaxgre nqathkko} link [(= size {0 0})] mpuaxgre nqathkko [arrow line])
+
+(vrl_instance {nqathkko sqgfuobc} link [(= size {0 0})] nqathkko sqgfuobc [arrow line])
+
+(vrl_instance {sqgfuobc dlavjpqh} link [(= size {0 0})] sqgfuobc dlavjpqh [arrow line])
+
+(vrl_instance {dlavjpqh wyykuqax} link [(= size {0 0})] dlavjpqh wyykuqax [arrow line])
+
+(vrl_instance {wyykuqax agwthauj} link [(= size {0 0})] wyykuqax agwthauj [arrow line])
+
+(vrl_instance {wyykuqax hbzeajwq} link [(= size {0 0})] wyykuqax hbzeajwq [arrow line])
+
+(vrl_instance {hbzeajwq mpqzkfmx} link [(= size {0 0})] hbzeajwq mpqzkfmx [arrow line])
+
+(vrl_instance {agwthauj sjvmajaw} link [(= size {0 0})] agwthauj sjvmajaw [arrow line])
+
+(vrl_instance {lelynwdx zjwwvqka} link [(= size {0 0})] lelynwdx zjwwvqka [arrow line])
+
+(vrl_instance {zjwwvqka dbyxocjq} link [(= size {0 0})] zjwwvqka dbyxocjq [arrow line])
+
+(vrl_instance {dbyxocjq csvrhxeh} link [(= size {0 0})] dbyxocjq csvrhxeh [arrow line])
+
+(vrl_instance {lelynwdx zjionsby} link [(= size {0 0})] lelynwdx zjionsby [arrow line])
+
+(vrl_instance {zjionsby pdqcqymh} link [(= size {0 0})] zjionsby pdqcqymh [arrow line])
+
+(vrl_instance {ioyddufn nbmxfkhm} link [(= size {0 0})] ioyddufn nbmxfkhm [arrow line])
+
+(vrl_instance {nbmxfkhm kiteuxbw} link [(= size {0 0})] nbmxfkhm kiteuxbw [arrow line])
+
+(vrl_instance {kiteuxbw yqsaygco} link [(= size {0 0})] kiteuxbw yqsaygco [arrow line])
+
+(vrl_instance {ioyddufn wubbembl} link [(= size {0 0})] ioyddufn wubbembl [arrow line])
+
+(vrl_instance {wubbembl ncusyjtq} link [(= size {0 0})] wubbembl ncusyjtq [arrow line])
+
+(vrl_instance {sjvmajaw fvdvrpbe} link [(= size {0 0})] sjvmajaw fvdvrpbe [arrow line])
+
+(vrl_instance {fvdvrpbe lelynwdx} link [(= size {0 0})] fvdvrpbe lelynwdx [arrow line])
+
+(vrl_instance {lmlioehp hofxqjbw} link [(= size {0 0})] lmlioehp hofxqjbw [arrow line])
+
+(vrl_instance {hofxqjbw ioyddufn} link [(= size {0 0})] hofxqjbw ioyddufn [arrow line])
+
+(vrl_instance {idjelqeg uhyigndl} link [(= size {0 0})] idjelqeg uhyigndl [arrow line])
+
+(vrl_instance {uhyigndl fnynzmxu} link [(= size {0 0})] uhyigndl fnynzmxu [arrow line])
+
+(vrl_instance {fnynzmxu jgkkepxt} link [(= size {0 0})] fnynzmxu jgkkepxt [arrow line])
+
+(vrl_instance {fnynzmxu kgdvueau} link [(= size {0 0})] fnynzmxu kgdvueau [arrow line])
+
+(vrl_instance {jgkkepxt wpasptno} link [(= size {0 0})] jgkkepxt wpasptno [arrow line])
+
+(vrl_instance {kgdvueau xctpwukh} link [(= size {0 0})] kgdvueau xctpwukh [arrow line])
+
+(vrl_instance {wpasptno iczqdnxg} link [(= size {0 0})] wpasptno iczqdnxg [arrow line])
+
+(vrl_instance {xctpwukh iczqdnxg} link [(= size {0 0})] xctpwukh iczqdnxg [arrow line])
+
+(vrl_instance {iczqdnxg ljkwvdfp} link [(= size {0 0})] iczqdnxg ljkwvdfp [arrow line])
+
+(vrl_instance {ljkwvdfp okykieyr} link [(= size {0 0})] ljkwvdfp okykieyr [arrow line])
+
+(vrl_instance {okykieyr gaxbpxmf} link [(= size {0 0})] okykieyr gaxbpxmf [arrow line])
+
+(vrl_instance {ljkwvdfp uughbsug} link [(= size {0 0})] ljkwvdfp uughbsug [arrow line])
+
+(vrl_instance {uughbsug ctjymkhc} link [(= size {0 0})] uughbsug ctjymkhc [arrow line])
+
+(vrl_instance {ctjymkhc raegddry} link [(= size {0 0})] ctjymkhc raegddry [arrow line])
+
+(vrl_instance {raegddry qbwfcptt} link [(= size {0 0})] raegddry qbwfcptt [arrow line])
+
+(vrl_instance {qbwfcptt nngxqxbe} link [(= size {0 0})] qbwfcptt nngxqxbe [arrow line])
+
+(vrl_instance {nngxqxbe nzmqupxd} link [(= size {0 0})] nngxqxbe nzmqupxd [arrow line])
+
+(vrl_instance {nzmqupxd jkoivyff} link [(= size {0 0})] nzmqupxd jkoivyff [arrow line])
+
+(vrl_instance {jkoivyff tfltgkeq} link [(= size {0 0})] jkoivyff tfltgkeq [arrow line])
+
+(vrl_instance {tfltgkeq rzunrhyn} link [(= size {0 0})] tfltgkeq rzunrhyn [arrow line])
+
+(vrl_instance {rzunrhyn kzbvruql} link [(= size {0 0})] rzunrhyn kzbvruql [arrow line])
+
+(vrl_instance {kzbvruql qrxupgkj} link [(= size {0 0})] kzbvruql qrxupgkj [arrow line])
+
+(vrl_instance {qrxupgkj pdgvknee} link [(= size {0 0})] qrxupgkj pdgvknee [arrow line])
+
+(vrl_instance {pdgvknee lbgyxfve} link [(= size {0 0})] pdgvknee lbgyxfve [arrow line])
+
+(vrl_instance {qrxupgkj fdgqaiae} link [(= size {0 0})] qrxupgkj fdgqaiae [arrow line])
+
+(vrl_instance {fdgqaiae kkzfbgrk} link [(= size {0 0})] fdgqaiae kkzfbgrk [arrow line])
+
+(vrl_instance {kkzfbgrk boneyuhr} link [(= size {0 0})] kkzfbgrk boneyuhr [arrow line])
+
+(vrl_instance {boneyuhr bwtgwwgc} link [(= size {0 0})] boneyuhr bwtgwwgc [arrow line])
+
+(vrl_instance {bwtgwwgc yltgjhoa} link [(= size {0 0})] bwtgwwgc yltgjhoa [arrow line])
+
+(vrl_instance {yltgjhoa mahqjwrv} link [(= size {0 0})] yltgjhoa mahqjwrv [arrow line])
+
+(vrl_instance {mahqjwrv cxwfivlk} link [(= size {0 0})] mahqjwrv cxwfivlk [arrow line])
+
+(vrl_instance {cxwfivlk ariyrdvc} link [(= size {0 0})] cxwfivlk ariyrdvc [arrow line])
+
+(vrl_instance {cxwfivlk ygakdpgz} link [(= size {0 0})] cxwfivlk ygakdpgz [arrow line])
+
+(vrl_instance {ygakdpgz ezslaszl} link [(= size {0 0})] ygakdpgz ezslaszl [arrow line])
+
+(vrl_instance {ezslaszl kpfaaokt} link [(= size {0 0})] ezslaszl kpfaaokt [arrow line])
+
+(vrl_instance {ezslaszl rmxiappe} link [(= size {0 0})] ezslaszl rmxiappe [arrow line])
+
+(vrl_instance {kpfaaokt evekiort} link [(= size {0 0})] kpfaaokt evekiort [arrow line])
+
+(vrl_instance {rmxiappe zylbhipv} link [(= size {0 0})] rmxiappe zylbhipv [arrow line])
+
+(vrl_instance {bwtgwwgc vcwocjqn} link [(= size {0 0})] bwtgwwgc vcwocjqn [arrow line])
+
+(vrl_instance {vcwocjqn zndjmztm} link [(= size {0 0})] vcwocjqn zndjmztm [arrow line])
+
+(vrl_instance {stifocbe cxwjtzph} link [(= size {0 0})] stifocbe cxwjtzph [arrow line])
+
+(vrl_instance {cxwjtzph ytaqddjl} link [(= size {0 0})] cxwjtzph ytaqddjl [arrow line])
+
+(vrl_instance {ytaqddjl uifrxgxt} link [(= size {0 0})] ytaqddjl uifrxgxt [arrow line])
+
+(vrl_instance {ytaqddjl kcreugdt} link [(= size {0 0})] ytaqddjl kcreugdt [arrow line])
+
+(vrl_instance {uifrxgxt voerfzwx} link [(= size {0 0})] uifrxgxt voerfzwx [arrow line])
+
+(vrl_instance {kcreugdt uocrkrcg} link [(= size {0 0})] kcreugdt uocrkrcg [arrow line])
+
+(vrl_instance {wrqudaol cboneimu} link [(= size {0 0})] wrqudaol cboneimu [arrow line])
+
+(vrl_instance {wrqudaol mpxmllvs} link [(= size {0 0})] wrqudaol mpxmllvs [arrow line])
+
+(vrl_instance {mpxmllvs kybarfqk} link [(= size {0 0})] mpxmllvs kybarfqk [arrow line])
+
+(vrl_instance {kybarfqk abegknmk} link [(= size {0 0})] kybarfqk abegknmk [arrow line])
+
+(vrl_instance {kybarfqk jafwbmnu} link [(= size {0 0})] kybarfqk jafwbmnu [arrow line])
+
+(vrl_instance {abegknmk toezsduv} link [(= size {0 0})] abegknmk toezsduv [arrow line])
+
+(vrl_instance {jafwbmnu uoozwndw} link [(= size {0 0})] jafwbmnu uoozwndw [arrow line])
+
+(vrl_instance {voerfzwx wrqudaol} link [(= size {0 0})] voerfzwx wrqudaol [arrow line])
+
+(vrl_instance {ariyrdvc epfecmgn} link [(= size {0 0})] ariyrdvc epfecmgn [arrow line])
+
+(vrl_instance {epfecmgn yqtcdpha} link [(= size {0 0})] epfecmgn yqtcdpha [arrow line])
+
+(vrl_instance {epfecmgn bjitlyoq} link [(= size {0 0})] epfecmgn bjitlyoq [arrow line])
+
+(vrl_instance {yqtcdpha szrmozdo} link [(= size {0 0})] yqtcdpha szrmozdo [arrow line])
+
+(vrl_instance {bjitlyoq jkrqzuul} link [(= size {0 0})] bjitlyoq jkrqzuul [arrow line])
+
+(vrl_instance {cboneimu xbmgbxig} link [(= size {0 0})] cboneimu xbmgbxig [arrow line])
+
+(vrl_instance {gorjmiaf omyjilvf} link [(= size {0 0})] gorjmiaf omyjilvf [arrow line])
+
+(vrl_instance {omyjilvf tmhzwcyu} link [(= size {0 0})] omyjilvf tmhzwcyu [arrow line])
+
+(vrl_instance {tmhzwcyu qkhssele} link [(= size {0 0})] tmhzwcyu qkhssele [arrow line])
+
+(vrl_instance {tmhzwcyu gmfzupdc} link [(= size {0 0})] tmhzwcyu gmfzupdc [arrow line])
+
+(vrl_instance {gmfzupdc xfbmsagb} link [(= size {0 0})] gmfzupdc xfbmsagb [arrow line])
+
+(vrl_instance {qkhssele cfxlvqyt} link [(= size {0 0})] qkhssele cfxlvqyt [arrow line])
+
+(vrl_instance {cfxlvqyt zoqvfgwk} link [(= size {0 0})] cfxlvqyt zoqvfgwk [arrow line])
+
+(vrl_instance {xbmgbxig bzlulclv} link [(= size {0 0})] xbmgbxig bzlulclv [arrow line])
+
+(vrl_instance {xbmgbxig axyxbvew} link [(= size {0 0})] xbmgbxig axyxbvew [arrow line])
+
+(vrl_instance {bzlulclv ysuvcbhs} link [(= size {0 0})] bzlulclv ysuvcbhs [arrow line])
+
+(vrl_instance {axyxbvew qcppdkyv} link [(= size {0 0})] axyxbvew qcppdkyv [arrow line])
+
+(vrl_instance {guiraxzp ibfboigf} link [(= size {0 0})] guiraxzp ibfboigf [arrow line])
+
+(vrl_instance {ibfboigf gjblvvrj} link [(= size {0 0})] ibfboigf gjblvvrj [arrow line])
+
+(vrl_instance {ibfboigf syvcvlgz} link [(= size {0 0})] ibfboigf syvcvlgz [arrow line])
+
+(vrl_instance {syvcvlgz dscnpxdo} link [(= size {0 0})] syvcvlgz dscnpxdo [arrow line])
+
+(vrl_instance {dscnpxdo isrrpmfg} link [(= size {0 0})] dscnpxdo isrrpmfg [arrow line])
+
+(vrl_instance {dscnpxdo whvmyskm} link [(= size {0 0})] dscnpxdo whvmyskm [arrow line])
+
+(vrl_instance {vvngpfhg guiraxzp} link [(= size {0 0})] vvngpfhg guiraxzp [])
+
+(vrl_instance {vvngpfhg ljzquhrk} link [(= size {0 0})] vvngpfhg ljzquhrk [])
+
+(vrl_instance {nkoimewc vvngpfhg} link [(= size {0 0})] nkoimewc vvngpfhg [])
+
+(vrl_instance {ljzquhrk nyripspy} link [] ljzquhrk nyripspy [arrow line])
+
+(vrl_instance {gjblvvrj vldwkadn} link [] gjblvvrj vldwkadn [arrow line])
+
+(vrl_instance {isrrpmfg fglvkzqc} link [] isrrpmfg fglvkzqc [arrow line])
+
+(vrl_instance {whvmyskm eqnkcnhk} link [] whvmyskm eqnkcnhk [arrow line])
+
+(vrl_instance {eqnkcnhk gorjmiaf} link [] eqnkcnhk gorjmiaf [arrow line])
+
+(vrl_instance {ngetgdjh wdzkfmnw} link [] ngetgdjh wdzkfmnw [arrow line])
+
+(vrl_instance {wdzkfmnw ziweqfpp} link [] wdzkfmnw ziweqfpp [arrow line])
+
+(vrl_instance {wdzkfmnw gwcmxzzp} link [] wdzkfmnw gwcmxzzp [arrow line])
+
+(vrl_instance {ziweqfpp mxyvgiju} link [] ziweqfpp mxyvgiju [arrow line])
+
+(vrl_instance {gwcmxzzp zmxrqgef} link [] gwcmxzzp zmxrqgef [arrow line])
+
+(vrl_instance {zmxrqgef zqmrwcak} link [] zmxrqgef zqmrwcak [arrow line])
+
+(vrl_instance {qwhblclr ercfhgng} link [] qwhblclr ercfhgng [arrow line])
+
+(vrl_instance {gddikwpl hcomooed} link [] gddikwpl hcomooed [arrow line])
+
+(vrl_instance {gddikwpl qwhblclr} link [] gddikwpl qwhblclr [arrow line])
+
+(vrl_instance {hcomooed aoqimsqk} link [] hcomooed aoqimsqk [arrow line])
+
+(vrl_instance {aoqimsqk diotevph} link [] aoqimsqk diotevph [arrow line])
+
+(vrl_instance {aoqimsqk srxgnntb} link [] aoqimsqk srxgnntb [arrow line])
+
+(vrl_instance {srxgnntb ltssmsav} link [] srxgnntb ltssmsav [arrow line])
+
+(vrl_instance {zqmrwcak gddikwpl} link [] zqmrwcak gddikwpl [arrow line])
+
+(vrl_instance {diotevph mrtydhok} link [] diotevph mrtydhok [arrow line])
+
+(vrl_instance {ynmasfpu fwavgmra} link [] ynmasfpu fwavgmra [arrow line])
+
+(vrl_instance {ynmasfpu krsduuyt} link [] ynmasfpu krsduuyt [arrow line])
+
+(vrl_instance {mrtydhok ynmasfpu} link [] mrtydhok ynmasfpu [arrow line])
+
+(vrl_instance {txshwvez hqmlzcef} link [] txshwvez hqmlzcef [arrow line])
+
+(vrl_instance {txshwvez dgrfqruy} link [] txshwvez dgrfqruy [arrow line])
+
+(vrl_instance {hqmlzcef eikhtimv} link [] hqmlzcef eikhtimv [arrow line])
+
+(vrl_instance {dgrfqruy fwujpshm} link [] dgrfqruy fwujpshm [arrow line])
+
+(vrl_instance {zndjmztm txshwvez} link [] zndjmztm txshwvez [arrow line])
+
+(vrl_instance {fwujpshm vohdqiwe} link [] fwujpshm vohdqiwe [arrow line])
+
+(vrl_instance {vohdqiwe havcgiff} link [] vohdqiwe havcgiff [arrow line])
+
+(vrl_instance {fwujpshm jftephdx} link [] fwujpshm jftephdx [arrow line])
+
+(vrl_instance {adplymbo eaquwnrs} link [] adplymbo eaquwnrs [arrow line])
+
+(vrl_instance {adplymbo tloexmds} link [] adplymbo tloexmds [arrow line])
+
+(vrl_instance {tloexmds rcpyhaec} link [] tloexmds rcpyhaec [arrow line])
+
+(vrl_instance {rcpyhaec stifocbe} link [] rcpyhaec stifocbe [arrow line])
+
+(vrl_instance {jftephdx adplymbo} link [] jftephdx adplymbo [arrow line])
+
+(vrl_instance {eaquwnrs ilwnetdc} link [] eaquwnrs ilwnetdc [arrow line])
+
+(vrl_instance {zdwgjwmq lpyjjygi} link [] zdwgjwmq lpyjjygi [arrow line])
+
+(vrl_instance {lpyjjygi staptxol} link [] lpyjjygi staptxol [arrow line])
+
+(vrl_instance {zdwgjwmq muuvtvjd} link [] zdwgjwmq muuvtvjd [arrow line])
+
+(vrl_instance {muuvtvjd hrbzqeyy} link [] muuvtvjd hrbzqeyy [arrow line])
+
+(vrl_instance {pdqcqymh zdwgjwmq} link [] pdqcqymh zdwgjwmq [arrow line])
+
+(vrl_instance {hrbzqeyy sthwyiew} link [] hrbzqeyy sthwyiew [arrow line])
+
+(vrl_instance {sthwyiew tqfdlvte} link [] sthwyiew tqfdlvte [arrow line])
+
+(vrl_instance {hrbzqeyy althogez} link [] hrbzqeyy althogez [arrow line])
+
+(vrl_instance {althogez zuqyucqa} link [] althogez zuqyucqa [arrow line])
+
+(vrl_instance {zuqyucqa wovxzyrp} link [] zuqyucqa wovxzyrp [arrow line])
+
+(vrl_instance {wovxzyrp mybeeyfw} link [] wovxzyrp mybeeyfw [arrow line])
+
+(vrl_instance {zuqyucqa mfgfcqai} link [] zuqyucqa mfgfcqai [arrow line])
+
+(vrl_instance {mfgfcqai zzrzufgp} link [] mfgfcqai zzrzufgp [arrow line])
+
+(vrl_instance {zzrzufgp lmlioehp} link [] zzrzufgp lmlioehp [arrow line])
+
+(vrl_instance {fwavgmra dtsdeeca} link [] fwavgmra dtsdeeca [arrow line])
+
+(vrl_instance {krsduuyt jutyxszd} link [] krsduuyt jutyxszd [arrow line])
+
+(vrl_instance {jutyxszd tkcdcinj} link [] jutyxszd tkcdcinj [arrow line])
+
+(vrl_instance {dtsdeeca tkcdcinj} link [] dtsdeeca tkcdcinj [arrow line])
+
+(vrl_instance {tkcdcinj kztdiipq} link [] tkcdcinj kztdiipq [arrow line])
+
+(vrl_instance {kztdiipq raetbloq} link [] kztdiipq raetbloq [arrow line])
+
+(vrl_instance {raetbloq zyrdocls} link [] raetbloq zyrdocls [arrow line])
+
+(vrl_instance {kztdiipq srmkocjj} link [] kztdiipq srmkocjj [arrow line])
+
+(vrl_instance {srmkocjj ovmttulp} link [] srmkocjj ovmttulp [arrow line])
+
+(vrl_instance {ovmttulp gwykyzvi} link [] ovmttulp gwykyzvi [arrow line])
+
+(vrl_instance {gwykyzvi zhkdretg} link [] gwykyzvi zhkdretg [arrow line])
+
+(vrl_instance {zhkdretg xaxxfaft} link [] zhkdretg xaxxfaft [arrow line])
+
+(vrl_instance {xaxxfaft xdslgfie} link [] xaxxfaft xdslgfie [arrow line])
+
+(vrl_instance {xdslgfie qkpltnhv} link [] xdslgfie qkpltnhv [arrow line])
+
+(vrl_instance {qkpltnhv yfohvbww} link [] qkpltnhv yfohvbww [arrow line])
+
+(vrl_instance {yfohvbww pnhfkmfu} link [] yfohvbww pnhfkmfu [arrow line])
+
+(vrl_instance {pnhfkmfu ycmqykua} link [] pnhfkmfu ycmqykua [arrow line])
+
+(vrl_instance {ycmqykua mnghipik} link [] ycmqykua mnghipik [arrow line])
+
+(vrl_instance {mnghipik ywmurvco} link [] mnghipik ywmurvco [arrow line])
+
+(vrl_instance {mnghipik wutdqnhk} link [] mnghipik wutdqnhk [arrow line])
+
+(vrl_instance {wutdqnhk yetluuqo} link [] wutdqnhk yetluuqo [arrow line])
+
+(vrl_instance {ywmurvco ceinmmze} link [] ywmurvco ceinmmze [arrow line])
+
+(vrl_instance {ceinmmze epbsyory} link [] ceinmmze epbsyory [arrow line])
+
+(vrl_instance {epbsyory benftdmv} link [] epbsyory benftdmv [arrow line])
+
+(vrl_instance {benftdmv jiolzssq} link [] benftdmv jiolzssq [arrow line])
+
+(vrl_instance {jiolzssq yaqiinan} link [] jiolzssq yaqiinan [arrow line])
+
+(vrl_instance {yaqiinan xwsvntaz} link [] yaqiinan xwsvntaz [arrow line])
+
+(vrl_instance {benftdmv heetipjl} link [] benftdmv heetipjl [arrow line])
+
+(vrl_instance {heetipjl ubgaceiw} link [] heetipjl ubgaceiw [arrow line])
+
+(vrl_instance {ubgaceiw niwrrjck} link [] ubgaceiw niwrrjck [arrow line])
+
+(vrl_instance {niwrrjck tcaidihi} link [] niwrrjck tcaidihi [arrow line])
+
+(vrl_instance {tcaidihi ugpcayvq} link [] tcaidihi ugpcayvq [arrow line])
+
+(vrl_instance {niwrrjck axcokzzl} link [] niwrrjck axcokzzl [arrow line])
+
+(vrl_instance {axcokzzl tqulpowa} link [] axcokzzl tqulpowa [arrow line])
+
+(vrl_instance {tqulpowa veyfxful} link [] tqulpowa veyfxful [arrow line])
+
+(vrl_instance {veyfxful pauaxmmz} link [] veyfxful pauaxmmz [arrow line])
+
+(vrl_instance {tqulpowa upsvrgct} link [] tqulpowa upsvrgct [arrow line])
+
+(vrl_instance {upsvrgct lggieaem} link [] upsvrgct lggieaem [arrow line])
+
+(vrl_instance {lggieaem smsawxpo} link [] lggieaem smsawxpo [arrow line])
+
+(vrl_instance {smsawxpo eymslhel} link [] smsawxpo eymslhel [arrow line])
+
+(vrl_instance {lggieaem mcfawzoi} link [] lggieaem mcfawzoi [arrow line])
+
+(vrl_instance {mcfawzoi xcbllzvc} link [] mcfawzoi xcbllzvc [arrow line])
+
+(vrl_instance {xcbllzvc stglajvu} link [] xcbllzvc stglajvu [arrow line])
+
+(vrl_instance {stglajvu ftqivrvi} link [] stglajvu ftqivrvi [arrow line])
+
+(vrl_instance {ftqivrvi diwwjepc} link [] ftqivrvi diwwjepc [arrow line])
+
+(vrl_instance {diwwjepc kvfqmnzw} link [] diwwjepc kvfqmnzw [arrow line])
+
+(vrl_instance {kvfqmnzw ktijluap} link [] kvfqmnzw ktijluap [arrow line])
+
+(vrl_instance {ktijluap tnzhsyse} link [] ktijluap tnzhsyse [arrow line])
+
+(vrl_instance {diwwjepc hkzhifnl} link [] diwwjepc hkzhifnl [arrow line])
+
+(vrl_instance {hkzhifnl grebikhv} link [] hkzhifnl grebikhv [arrow line])
+
+(vrl_instance {fagypekw qzudrgip} link [] fagypekw qzudrgip [arrow line])
+
+(vrl_instance {qzudrgip jztjiwgc} link [] qzudrgip jztjiwgc [arrow line])
+
+(vrl_instance {qzudrgip praucuyo} link [] qzudrgip praucuyo [arrow line])
+
+(vrl_instance {praucuyo uoisthsx} link [] praucuyo uoisthsx [arrow line])
+
+(vrl_instance {uoisthsx kvqtsexv} link [] uoisthsx kvqtsexv [arrow line])
+
+(vrl_instance {kvqtsexv nxhicoks} link [] kvqtsexv nxhicoks [arrow line])
+
+(vrl_instance {kvqtsexv dulkgalw} link [] kvqtsexv dulkgalw [arrow line])
+
+(vrl_instance {jztjiwgc noevsltj} link [] jztjiwgc noevsltj [arrow line])
+
+(vrl_instance {nxhicoks tzwjgehb} link [] nxhicoks tzwjgehb [arrow line])
+
+(vrl_instance {dulkgalw timlvbxp} link [] dulkgalw timlvbxp [arrow line])
+
+(vrl_instance {tzwjgehb evuiiuel} link [] tzwjgehb evuiiuel [arrow line])
+
+(vrl_instance {timlvbxp evuiiuel} link [] timlvbxp evuiiuel [arrow line])
+
+(vrl_instance {evuiiuel dwcqptlf} link [] evuiiuel dwcqptlf [arrow line])
+
+(vrl_instance {dwcqptlf nvpwdssk} link [] dwcqptlf nvpwdssk [arrow line])
+
+(vrl_instance {dwcqptlf ndgdqihh} link [] dwcqptlf ndgdqihh [arrow line])
+
+(vrl_instance {ndgdqihh nhhzkurm} link [] ndgdqihh nhhzkurm [arrow line])
+
+(vrl_instance {nvpwdssk vmokaaem} link [] nvpwdssk vmokaaem [arrow line])
+
+(vrl_instance {vmokaaem humuotqf} link [] vmokaaem humuotqf [arrow line])
+
+(vrl_instance {humuotqf eeaeuxad} link [] humuotqf eeaeuxad [arrow line])
+
+(vrl_instance {eeaeuxad hoxuzkpz} link [] eeaeuxad hoxuzkpz [arrow line])
+
+(vrl_instance {hoxuzkpz jamuqwyz} link [] hoxuzkpz jamuqwyz [arrow line])
+
+(vrl_instance {jamuqwyz vmhidftt} link [] jamuqwyz vmhidftt [arrow line])
+
+(vrl_instance {vmhidftt bphhwdvq} link [] vmhidftt bphhwdvq [arrow line])
+
+(vrl_instance {bphhwdvq cokqegwj} link [] bphhwdvq cokqegwj [arrow line])
+
+(vrl_instance {cokqegwj xglujqyd} link [] cokqegwj xglujqyd [arrow line])
+
+(vrl_instance {xglujqyd bdnkdisb} link [] xglujqyd bdnkdisb [arrow line])
+
+(vrl_instance {bdnkdisb gvjwvktw} link [] bdnkdisb gvjwvktw [arrow line])
+
+(vrl_instance {gvjwvktw hlfdmjle} link [] gvjwvktw hlfdmjle [arrow line])
+
+(vrl_instance {bdnkdisb pomilypp} link [] bdnkdisb pomilypp [arrow line])
+
+(vrl_instance {pomilypp zlxwuorw} link [] pomilypp zlxwuorw [arrow line])
+
+(vrl_instance {zlxwuorw fkofsvbd} link [] zlxwuorw fkofsvbd [arrow line])
+
+(vrl_instance {fkofsvbd ejnjsagw} link [] fkofsvbd ejnjsagw [arrow line])
+
+(vrl_instance {ejnjsagw uorhjhua} link [] ejnjsagw uorhjhua [arrow line])
+
+(vrl_instance {uorhjhua mydtkgtf} link [] uorhjhua mydtkgtf [arrow line])
+
+(vrl_instance {mydtkgtf xoljxctm} link [] mydtkgtf xoljxctm [arrow line])
+
+(vrl_instance {ejnjsagw kcauqwqy} link [] ejnjsagw kcauqwqy [arrow line])
+
+(vrl_instance {kcauqwqy untvvlvl} link [] kcauqwqy untvvlvl [arrow line])
+
+(vrl_instance {untvvlvl idpwdtzg} link [] untvvlvl idpwdtzg [arrow line])
+
+(vrl_instance {idpwdtzg mfaqyoun} link [] idpwdtzg mfaqyoun [arrow line])
+
+(vrl_instance {idpwdtzg apjlwyun} link [] idpwdtzg apjlwyun [arrow line])
+
+(vrl_instance {apjlwyun zwbhrhlf} link [] apjlwyun zwbhrhlf [arrow line])
+
+(vrl_instance {zwbhrhlf ygqezfun} link [] zwbhrhlf ygqezfun [arrow line])
+
+(vrl_instance {ygqezfun yqwinruh} link [] ygqezfun yqwinruh [arrow line])
+
+(vrl_instance {zwbhrhlf cldpughc} link [] zwbhrhlf cldpughc [arrow line])
+
+(vrl_instance {cldpughc hidtcrzd} link [] cldpughc hidtcrzd [arrow line])
+
+(vrl_instance {hidtcrzd gmrqwoyl} link [] hidtcrzd gmrqwoyl [arrow line])
+
+(vrl_instance {gmrqwoyl qfroenqc} link [] gmrqwoyl qfroenqc [arrow line])
+
+(vrl_instance {hidtcrzd ugtzeptr} link [] hidtcrzd ugtzeptr [arrow line])
+
+(vrl_instance {ugtzeptr rudhkrwe} link [] ugtzeptr rudhkrwe [arrow line])
+
+(vrl_instance {crvthxfz qgcdzerj} link [] crvthxfz qgcdzerj [arrow line])
+
+(vrl_instance {nxykxqfe crvthxfz} link [] nxykxqfe crvthxfz [arrow line])
+
+(vrl_instance {qfroenqc ptzfwpxv} link [] qfroenqc ptzfwpxv [arrow line])
+
+(vrl_instance {ptzfwpxv iukbjcdu} link [] ptzfwpxv iukbjcdu [arrow line])
+
+(vrl_instance {iukbjcdu nxykxqfe} link [] iukbjcdu nxykxqfe [arrow line])
+
+(vrl_instance {nxykxqfe bapxfghx} link [] nxykxqfe bapxfghx [arrow line])
+
+(vrl_instance {bapxfghx yjwvvqxy} link [] bapxfghx yjwvvqxy [arrow line])
+
+(vrl_instance {yjwvvqxy kxvallqo} link [] yjwvvqxy kxvallqo [arrow line])
+
+(vrl_instance {mfaqyoun eguloajn} link [] mfaqyoun eguloajn [arrow line])
+
+(vrl_instance {nsexmaxu ftvtovja} link [] nsexmaxu ftvtovja [arrow line])
+
+(vrl_instance {ftvtovja oirjrmit} link [] ftvtovja oirjrmit [arrow line])
+
+(vrl_instance {ftvtovja ajpkrwli} link [] ftvtovja ajpkrwli [arrow line])
+
+(vrl_instance {ajpkrwli fllgakne} link [] ajpkrwli fllgakne [arrow line])
+
+(vrl_instance {fllgakne mrvzqciu} link [] fllgakne mrvzqciu [arrow line])
+
+(vrl_instance {fllgakne jrychrjg} link [] fllgakne jrychrjg [arrow line])
+
+(vrl_instance {mrvzqciu tvcvxczh} link [] mrvzqciu tvcvxczh [arrow line])
+
+(vrl_instance {jrychrjg zdznscry} link [] jrychrjg zdznscry [arrow line])
+
+(vrl_instance {zdznscry slpczaxj} link [] zdznscry slpczaxj [arrow line])
+
+(vrl_instance {slpczaxj gmqhjxxv} link [] slpczaxj gmqhjxxv [arrow line])
+
+(vrl_instance {zdznscry umfoktpe} link [] zdznscry umfoktpe [arrow line])
+
+(vrl_instance {umfoktpe vzlmdpgz} link [] umfoktpe vzlmdpgz [arrow line])
+
+(vrl_instance {vzlmdpgz onznhicq} link [] vzlmdpgz onznhicq [arrow line])
+
+(vrl_instance {oirjrmit ynbgikbe} link [] oirjrmit ynbgikbe [arrow line])
